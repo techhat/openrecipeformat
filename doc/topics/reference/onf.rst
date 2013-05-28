@@ -2,6 +2,11 @@ Open Nutrition Format Reference
 ===============================
 
 
+usda_num
+--------
+
+usda_name
+---------
 
 amount
 ------
@@ -22,17 +27,41 @@ energy
 protein
 ~~~~~~~
 
-total_lipid
+lipid_total
 ~~~~~~~~~~~
+
+ash
+~~~
 
 carbohydrate
 ~~~~~~~~~~~~
 
-total_fiber
+fiber_total
 ~~~~~~~~~~~
 
-total_sugars
+sugars_total
 ~~~~~~~~~~~~
+
+sucrose
+~~~~~~~
+
+glucose
+~~~~~~~
+
+fructose
+~~~~~~~~
+
+lactose
+~~~~~~~
+
+maltose
+~~~~~~~
+
+galactose
+~~~~~~~~~
+
+starch
+~~~~~~
 
 
 minerals
@@ -59,6 +88,18 @@ sodium
 zinc
 ~~~~
 
+copper
+~~~~~~
+
+manganese
+~~~~~~~~~
+
+selenium
+~~~~~~~~
+
+flouride
+~~~~~~~~
+
 
 vitamins
 --------
@@ -75,32 +116,92 @@ riboflavin
 niacin
 ~~~~~~
 
+pantothenic_acid
+~~~~~~~~~~~~~~~~
+
 vitamin_b6
 ~~~~~~~~~~
 
-folate
-~~~~~~
+folate_total
+~~~~~~~~~~~~
+
+folic_acid
+~~~~~~~~~~
+
+folate_food
+~~~~~~~~~~~
+
+folate_dfe
+~~~~~~~~~~
+
+choline_total
+~~~~~~~~~~~~~
+
+betaine
+~~~~~~~
 
 vitamin_b12
 ~~~~~~~~~~~
 
+vitamin_b12_total
+~~~~~~~~~~~~~~~~~
+
 vitamin_a_rae
 ~~~~~~~~~~~~~
+
+retinol
+~~~~~~~
+
+carotene_beta
+~~~~~~~~~~~~~
+
+carotene_alpha
+~~~~~~~~~~~~~~
+
+cryptoxanthin_beta
+~~~~~~~~~~~~~~~~~~
 
 vitamin_a_iu
 ~~~~~~~~~~~~
 
-vitamin_e
-~~~~~~~~~
+lycopene
+~~~~~~~~
+
+lutein_zeaxanthin
+~~~~~~~~~~~~~~~~
+
+vitamin_e_alpha_tocopherol
+~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+vitamin_e_added
+~~~~~~~~~~~~~~~
+
+tocopherol_beta
+~~~~~~~~~~~~~~~
+
+tocopherol_gamma
+~~~~~~~~~~~~~~~~
+
+tocopherol_delta
+~~~~~~~~~~~~~~~~
 
 vitamin_d2_d3
 ~~~~~~~~~~~~~
+
+vitamin_d_ergocalciferol
+~~~~~~~~~~~~~~~~~~~~~~~~
+
+vitamin_d_cholecalciferol
+~~~~~~~~~~~~~~~~~~~~~~~~~
 
 vitamin_d
 ~~~~~~~~~
 
 vitamin_k
 ~~~~~~~~~
+
+menaquinone_4
+~~~~~~~~~~~~~
 
 
 lipids
