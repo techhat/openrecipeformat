@@ -7,6 +7,8 @@ usda_num
 
 usda_name
 ---------
+If ``usda_num`` is specified, this name may or may not match the actual name in
+the database.
 
 amount
 ------
