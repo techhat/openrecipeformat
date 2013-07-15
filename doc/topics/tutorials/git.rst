@@ -59,8 +59,11 @@ repositories (known as "repos"), using both free and paid models. There are
 other stellar hosting options available, but by and large the usage will be the
 same.
 
-TODO: Sign up a GitHub account
-TODO: Create a repo in GitHub (call it "myrecipes")
+If you haven't already, go to https://github.com/ and create an account. Once
+you have signed up, you need to create a new repo. In GitHub, the icon to create
+a new repo is located in the top-right corner of the page, and looks like a book
+with a plus sign on it. Call your repo "myrecipes", and go ahead and make it
+public.
 
 Once the repo has been created on GitHub, you need to initialize it on your
 local machine. 
