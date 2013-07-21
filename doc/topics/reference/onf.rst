@@ -4,6 +4,7 @@ Open Nutrition Format Reference
 
 usda_num
 --------
+Official record number matching an item in the USDA Standard Reference.
 
 usda_name
 ---------
