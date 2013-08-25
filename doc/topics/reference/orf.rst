@@ -2,11 +2,6 @@ Open Recipe Format Reference
 ============================
 
 
-author
-------
-Refers to the author of this recipe. Can be the same as ``source_author``, if
-appropriate.
-
 oven_fan
 --------
 Setting to be used with convection oven. Possible values are "Off", "Low" and
@@ -115,8 +110,9 @@ into a generic notes field.
 
 authors
 ~~~~~~~
-This is a list. If there was only one author, then they would be the only item
-in the list.
+This is a list. Refers to the author(s) of this recipe. Can be the same as
+``source_authors``, if appropriate. If there was only one author, then they
+would be the only item in the list.
 
 title
 ~~~~~
@@ -136,8 +132,8 @@ A lot of different information about a book can be stored. Until a field has
 been officially accepted into the spec, it should start with a capital X,
 followed by a dash.
 
-source_author
--------------
+source_authors
+--------------
 Does not refer to the person who entered the recipe; only refers to the original
 author of the recipe. If this recipe was based on another recipe by another
 person, then this field should contain the name of the original author.
