@@ -42,6 +42,6 @@ to the end-user.
 
 Many of the files in this repository are intended to document the Open Recipe 
 Format. Others are examples, to help programmers understand how to best use the 
-format. And finally, sample source code is provided to give programmers a jump 
+format. And finally, sample source code is provided to give programmers a jump-
 start in their coding efforts.
 
