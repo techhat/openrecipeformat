@@ -1,0 +1,102 @@
+recipe_uuid: blah-001
+recipe_name: My Recipe
+author: Me
+source_url: http://localhost/
+source_book: none
+oven_temp: none
+oven_fan: none
+bake_time: none
+yields:
+    - servings:
+        4
+    - servings:
+        10
+ingredients:
+    - apple:
+        usda_num: 09003
+        amounts:
+            - amount: 4
+              unit: each
+            - amount: 10
+              unit: each
+        processing:
+            - whole
+            - raw
+        substitutions:
+            - pears:
+                usda_num: 09252
+                amounts:
+                    - amount: 4
+                      unit: each
+                    - amount: 10
+                      unit: each
+        notes:
+            - Use whole apples
+            - Pears may be substituted, but produce a different flavor and mouthfeel
+    - banana:
+        usda_num: 09040
+        amounts:
+            - amount: 4
+              unit: each
+            - amount: 10
+              unit: each
+steps:
+    - step:
+        Hand out the apples
+      haccp: The apples must be clean
+      notes:
+        - Some people like green
+        - Some people like red
+    - step:
+        Hand out the bananas
+      haccp: The bananas must be clean
+      notes:
+        - Some people like green
+        - Most people don't like black 
+    - step:
+        Enjoy
+notes:
+    - This is a note
+    - This is another note
+nutrition:
+    apple:
+        - unit: g
+          amount: 100
+          proximates:
+            water: 85.56
+            energy: 52
+            protein: 0.26
+            total_lipid: 0.17
+            carbohydrate: 13.81
+            total_fiber: 2.4
+            total_sugars: 10.39
+          minerals:
+            calcium: 6
+            iron: 0.12
+            magnesium: 5
+            phosphorus: 11
+            potassium: 107
+            sodium: 1
+            zinc: 0.04
+          vitamins:
+            vitamin_c: 4.6
+            thiamin: 0.017
+            riboflavin: 0.026
+            niacin: 0.091
+            vitamin_b6: 0.041
+            folate: 3
+            vitamin_b12: 0
+            vitamin_a_rae: 3
+            vitamin_a_iu: 54
+            vitamin_e: 0.18
+            vitamin_d2_d3: 0
+            vitamin_d: 0
+            vitamin_k: 2.2
+          lipids:
+            total_saturated: 0.028
+            total_monounsaturated: 0.007
+            total_polyunsaturated: 0.051
+            cholesterol: 0
+          other:
+            caffeine: 0
+
