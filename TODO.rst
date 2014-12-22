@@ -7,3 +7,4 @@ Open Recipe Format repository.
 - Add more example recipes
 - Add a syntax checker
 - Add a reference parser
+- Clarify integration with USDA Standard Reference
