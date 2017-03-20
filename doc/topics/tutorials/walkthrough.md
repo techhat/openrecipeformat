@@ -8,7 +8,7 @@ At its most basic level, a recipe consists of a name, a list of ingredients, and
 
 Let's put together a very basic recipe for giving an apple to a friend. In a non-computer parsable format, we might say, "Give an apple to a friend." To make this easier for the computer to use, we need to be more specific:
 
-``` sourceCode
+``` yaml
 recipe_name: Giving an Apple to a Friend
 ingredients:
     - apple:
@@ -23,7 +23,7 @@ This is as basic as a recipe gets. Because we are striving to be specific, there
 
 Let's expand this recipe, to include more fruit, and more steps for handling the fruit. This recipe is for a very basic fruit salad, which is unlikely to win any awards, but will still feed your friends.
 
-``` sourceCode
+``` yaml
 recipe_name: Basic Fruit Salad
 yields:
     - servings: 6
@@ -54,7 +54,7 @@ steps:
 
 This recipe is fine for 6 people, but what if you need to feed 18 people? An important consideration that most recipe software handles is scaling recipes. However, many commercial environments require multiple scalings to be available in a tidy, concise format. In our case, we would make the following changes to our recipe to handle both at the same time:
 
-``` sourceCode
+``` yaml
 recipe_name: Basic Fruit Salad
 yields:
     - servings: 6
@@ -90,7 +90,7 @@ A classic use case for this scenario is a bakery, which may need to bake batches
 
 Speaking of notes, many professional cooks and bakers like to make bench notes when experimenting with recipes. These items of information do not necessarily fit into the classic "steps" format. Fortunately, ORF allows for "notes" to be saved, both alongside specific steps, and outside of the steps. Let's go back to our first recipe, and add some notes.
 
-``` sourceCode
+``` yaml
 recipe_name: Giving an Apple to a Friend
 ingredients:
     - apple:
@@ -112,7 +112,7 @@ This recipe contains notes for individual ingredients and steps, as well as for 
 
 Food scientists have a whole new set of information that they need to manage. Precision is key for these individuals, and ORF is designed to handle features that are key to their job success. Consider the following:
 
-``` sourceCode
+``` yaml
 ingredients:
     - apple:
         usda_num: 09003

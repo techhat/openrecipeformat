@@ -26,7 +26,7 @@ If you haven't already, go to <https://github.com/> and create an account. Once 
 
 Once the repo has been created on GitHub, you need to initialize it on your local machine.
 
-``` sourceCode
+``` shell
 localhost> mkdir -p ~/git/myrecipes
 localhost> cd ~/git/myrecipes
 localhost> git init
@@ -40,7 +40,7 @@ Creating a Recipe
 
 We'll create a simple recipe, using your favorite text editor. This recipe will be saved as ~/git/myrecipes/apple.yaml:
 
-``` sourceCode
+``` shell
 recipe_name: Giving an Apple to a Friend
 ingredients:
     - apple:
@@ -53,7 +53,7 @@ steps:
 
 You may notice that this recipe contains an inconsistency. Don't worry about it, we'll fix it up in just a moment. For now, we'll save the recipe, and then see what git has to say about it.
 
-``` sourceCode
+``` shell
 localhost> git status
 # On branch master
 #
@@ -68,7 +68,7 @@ nothing added to commit but untracked files present (use "git add" to track)
 
 Git can see that the file is there, but it's not currently tracking any changes to it. Let's add it, and see what git thinks about it.
 
-``` sourceCode
+``` shell
 localhost> git add apple.yaml 
 localhost> git status
 # On branch master
@@ -84,7 +84,7 @@ localhost> git status
 
 Git has now been notifed that apple.yaml is available to be added to the repo. However, it has not yet been checked in (or "committed", as git calls it), and so git is still not technically tracking changes to it. Let's go ahead and commit it.
 
-``` sourceCode
+``` shell
 localhost> git commit -m 'This is my first commit'
 [master (root-commit) 1617167] This is my first commit
  1 file changed, 8 insertions(+)
@@ -98,7 +98,7 @@ The -m option designates a commit message. This is usually a quick, one-line mes
 
 Git is now officially tracking changes to this file. But as you may have noticed before, there is an error in the recipe. The title of the recipe is, "Giving an Apple to a Friend", but the recipe itself states that the apple is to be given to a fiend. After this typo has been corrected, we can check Git to see how it is tracking our change.
 
-``` sourceCode
+``` diff
 localhost> git diff
 diff --git a/apple.yaml b/apple.yaml
 index 72cd1a1..0ec3011 100644
@@ -114,19 +114,19 @@ index 72cd1a1..0ec3011 100644
 
 The git diff command shows us the difference between the old version of the file (a/apple.yaml) and the new version of the file (b/apple.yaml). The format that it uses tells us that any line starting with - shows a line that has been removed from the old version, and any line starting with + is a line that was added to the old version. In this case, the following line:
 
-``` sourceCode
+``` yaml
 - step: Give an apple to a fiend.
 ```
 
 Has been changed to this in the new version:
 
-``` sourceCode
+``` yaml
 - step: Give an apple to a friend.
 ```
 
 With the change in place, we may now add and commit a new version of this file.
 
-``` sourceCode
+``` shell
 localhost> git add apple.yaml 
 localhost> git commit -m 'Correcting typo: friend, not fiend'
 [master 4f59a41] Correcting typo: friend, not fiend
@@ -137,7 +137,7 @@ At this point, two different versions of the file exist in the git repo. This is
 
 Since we've left reasonable commit messages in git, we can go back and see, at a glace, where certain changes were made.
 
-``` sourceCode
+``` shell
 localhost> git log
 commit 4f59a41a9bc0e06f2858302ce3332d336140ca7f
 Author: Larry Fine <larry@stooges.com>
