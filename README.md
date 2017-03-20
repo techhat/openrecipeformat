@@ -29,11 +29,11 @@ Many of the files in this repository are intended to document the Open Recipe Fo
 Getting Started
 ===============
 
-This walkthrough is made to help individuals get started quickly and gain a foundational knowledge of the Open Recipe Format: [Getting Started - A Basic Recipe](doc/topics/tutorials/walkthrough.md)
+This walkthrough is made to help individuals get started quickly and gain a foundational knowledge of the Open Recipe Format: [Getting Started - A Basic Recipe](tutorials/walkthrough.md)
 
 [Examples](examples.md)
 
 In addition to an Open Recipe Format, an Open Nutrition Format is being established. These two formats are described in more detail here:
 
--   [Open Recipe Format Reference](doc/topics/reference/orf.md)
--   [Open Nutrition Format Reference](doc/topics/reference/onf.md)
+-   [Open Recipe Format Reference](reference/orf.md)
+-   [Open Nutrition Format Reference](reference/onf.md)
