@@ -24,3 +24,18 @@ At the heart of the Open Recipe Format is an established file format called YAML
 This repository is intended more for programmers than anyone else. As human-readable as the format is, it is likely to be confusing to many in its raw format. The job of the programmer is to use this spec in the development of their own software packages, websites, etc., and provide a friendly interface to the end-user.
 
 Many of the files in this repository are intended to document the Open Recipe Format. Others are examples, to help programmers understand how to best use the format. And finally, sample source code will be provided to give programmers a jump-start in their coding efforts.
+
+Getting Started
+===============
+
+This walkthrough is made to help individuals get started quickly and gain a foundational knowledge of the Open Recipe Format:
+
+A Basic Recipe&lt;/topics/tutorials/walkthrough&gt;
+
+In addition to an Open Recipe Format, an Open Nutrition Format is being established. These two formats are described in more detail here:
+
+Developers References:  
+-   Open Recipe Format Reference&lt;topics/reference/orf&gt;
+-   Open Nutrition Format Reference&lt;topics/reference/onf&gt;
+
+
