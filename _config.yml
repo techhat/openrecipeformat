@@ -8,6 +8,7 @@ gems:
   - jekyll-readme-index
   - jekyll-default-layout
   - jekyll-titles-from-headings
+  - jekyll-relative-links
 exclude:
   - Gemfile
   - Gemfile.lock
