@@ -1,5 +1,8 @@
 # Open Nutrition Format Reference
 
+* TOC
+{:toc}
+
 usda\_num
 ---------
 

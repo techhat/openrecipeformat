@@ -1,5 +1,8 @@
 # Open Recipe Format Reference
 
+* TOC
+{:toc}
+
 oven\_fan
 ---------
 
