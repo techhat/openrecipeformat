@@ -30,12 +30,10 @@ Getting Started
 
 This walkthrough is made to help individuals get started quickly and gain a foundational knowledge of the Open Recipe Format:
 
-A Basic Recipe&lt;/topics/tutorials/walkthrough&gt;
+[A Basic Recipe](/doc/topics/tutorials/walkthrough)
 
 In addition to an Open Recipe Format, an Open Nutrition Format is being established. These two formats are described in more detail here:
 
 Developers References:  
--   Open Recipe Format Reference&lt;topics/reference/orf&gt;
--   Open Nutrition Format Reference&lt;topics/reference/onf&gt;
-
-
+-   [Open Recipe Format Reference](/doc/topics/reference/orf)
+-   [Open Nutrition Format Reference](/doc/topics/reference/onf)
