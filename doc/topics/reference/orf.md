@@ -1,5 +1,4 @@
-Open Recipe Format Reference
-============================
+# Open Recipe Format Reference
 
 oven\_fan
 ---------

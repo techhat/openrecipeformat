@@ -1,5 +1,9 @@
-Open Recipe Format
-==================
+---
+layout: default
+permalink: /index.html
+---
+
+# Open Recipe Format
 
 In the beginning, there was food. And then there were dishes. And somewhere down the line, people started writing down how to make the dishes. And most of them weren't very good at it. And then they got computers, and they still weren't very good at it.
 

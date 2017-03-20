@@ -1,5 +1,4 @@
-Open Nutrition Format Reference
-===============================
+# Open Nutrition Format Reference
 
 usda\_num
 ---------

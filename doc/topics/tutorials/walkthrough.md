@@ -1,5 +1,4 @@
-Getting Started
-===============
+# Getting Started
 
 The Open Recipe Format was designed to be as simple as possible for basic applications, while also being flexible enough to handle various complexities that may be encountered in production environments. This guide outlines the basic file format, what needs to be defined at a bare minimum, and how to put it all together.
 

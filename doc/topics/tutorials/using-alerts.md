@@ -1,5 +1,4 @@
-Using Alerts
-============
+# Using Alerts
 
 The Open Recipe Format allows each step of a recipe to include extra, computer-readable information about that step. For instance, a duration may be stored, such as 25M (25 minutes). Durations are based on the Unix date command, and include:
 
