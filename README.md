@@ -6,6 +6,8 @@ permalink: /index.html
 
 # Open Recipe Format
 
+> **Attribution:** This is a fork of the [Open Recipe Format repository by Joseph Hall](https://github.com/techhat/openrecipeformat) converted to be a web site for easier access.
+
 In the beginning, there was food. And then there were dishes. And somewhere down the line, people started writing down how to make the dishes. And most of them weren't very good at it. And then they got computers, and they still weren't very good at it.
 
 The Open Recipe Format has been designed to solve some basic needs: accurate and flexible storage of recipes. While there have been attempts in the past to create standardized computer recipe formats, they have so far met with failure. This stems from several problems, all of which stem from a lack of understanding of the tasks at hand (and in most cases, ignorance of which tasks actually need to be addressed).
