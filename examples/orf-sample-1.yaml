@@ -13,33 +13,33 @@ yields:
     10
 ingredients:
   - apple:
-    usda_num: 09003
-    amounts:
-      - amount: 4
-        unit: each
-      - amount: 10
-        unit: each
-    processing:
-      - whole
-      - raw
-    substitutions:
-      - pears:
-        usda_num: 09252
-        amounts:
-          - amount: 4
-            unit: each
-          - amount: 10
-            unit: each
-    notes:
-      - Use whole apples
-      - Pears may be substituted, but produce a different flavor and mouthfeel
+      usda_num: 09003
+      amounts:
+        - amount: 4
+          unit: each
+        - amount: 10
+          unit: each
+      processing:
+        - whole
+        - raw
+      substitutions:
+        - pears:
+          usda_num: 09252
+          amounts:
+            - amount: 4
+              unit: each
+            - amount: 10
+              unit: each
+      notes:
+        - Use whole apples
+        - Pears may be substituted, but produce a different flavor and mouthfeel
   - banana:
-    usda_num: 09040
-    amounts:
-      - amount: 4
-        unit: each
-      - amount: 10
-        unit: each
+      usda_num: 09040
+      amounts:
+        - amount: 4
+          unit: each
+        - amount: 10
+          unit: each
 steps:
   - step:
     Hand out the apples
