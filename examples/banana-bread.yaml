@@ -10,82 +10,82 @@ yields:
   - loaves: 3
 ingredients:
   - All Purpose Flour:
-    usda_num: 20581
-    amounts:
-      - amount: 3 1/2
-        unit: cups
-    substitutions:
-      - Oat Flour:
-        usda_num: '08122'
-        amounts:
-          - amount: '3 1/2'
-            unit: cups
-        notes:
-          - Make oat flour by processing instant oats in food processor.
+      usda_num: 20581
+      amounts:
+        - amount: 3 1/2
+          unit: cups
+      substitutions:
+        - Oat Flour:
+          usda_num: '08122'
+          amounts:
+            - amount: '3 1/2'
+              unit: cups
+          notes:
+            - Make oat flour by processing instant oats in food processor.
   - Baking Soda:
-    usda_num: 18372
-    amounts:
-      - amount: 2
-        unit: tsp
+      usda_num: 18372
+      amounts:
+        - amount: 2
+          unit: tsp
   - Baking Powder:
-    usda_num: 18369
-    amounts:
-      - amount: 2
-        unit: tsp
+      usda_num: 18369
+      amounts:
+        - amount: 2
+          unit: tsp
   - Salt:
-    usda_num: '02047'
-    amounts:
-      - amount: 1
-        unit: tsp
+      usda_num: '02047'
+      amounts:
+        - amount: 1
+          unit: tsp
   - Cinnamon, Ground:
-    usda_num: '02010'
-    amounts:
-      - amount: 2
-        unit: tsp
+      usda_num: '02010'
+      amounts:
+        - amount: 2
+          unit: tsp
   - Cloves, Ground:
-    usda_num: '02011'
-    amounts:
-      - amount: 1
-        unit: tsp
+      usda_num: '02011'
+      amounts:
+        - amount: 1
+          unit: tsp
   - Nutmeg, Ground:
-    usda_num: '02025'
-    amounts:
-      - amount: 1
-        unit: tsp
+      usda_num: '02025'
+      amounts:
+        - amount: 1
+          unit: tsp
   - Butter, Unsalted:
-    usda_num: '01145'
-    amounts:
-      - amount: 1
-        unit: cup
-    notes:
-      - Melted
+      usda_num: '01145'
+      amounts:
+        - amount: 1
+          unit: cup
+      notes:
+        - Melted
   - Granulated Sugar:
-    usda_num: 19335
-    amounts:
-      - amount: '1 1/2'
-        unit: cups
+      usda_num: 19335
+      amounts:
+        - amount: '1 1/2'
+          unit: cups
   - Bananas:
-    usda_num: '09040'
-    amounts:
-      - amount: 6
-        unit: each
+      usda_num: '09040'
+      amounts:
+        - amount: 6
+          unit: each
   - Eggs, Large:
-    usda_num: '01123'
-    amounts:
-      - amount: 4
-        unit: cups
+      usda_num: '01123'
+      amounts:
+        - amount: 4
+          unit: cups
   - Vanilla Extract:
-    usda_num: '02050'
-    amounts:
-      - amount: 2
-        unit: tsp
+      usda_num: '02050'
+      amounts:
+        - amount: 2
+          unit: tsp
   - Chocolate Chips, Bittersweet:
-    usda_num: 19080
-    amounts:
-      - amount: 2
-        unit: cups
-    notes:
-      - Optional
+      usda_num: 19080
+      amounts:
+        - amount: 2
+          unit: cups
+      notes:
+        - Optional
 steps:
   - step:
       Preheat oven to 350F.
