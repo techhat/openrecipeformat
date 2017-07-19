@@ -1,0 +1,14 @@
+title: Open Recipe Format
+
+# Build settings
+markdown: kramdown
+theme: minima
+gems:
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-default-layout
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+exclude:
+  - Gemfile
+  - Gemfile.lock
