@@ -95,7 +95,7 @@ This functions somewhat like a network MAC address. It needs to contain an
 identifier for the company or the software package, and then a unique identifier
 for the recipe itself. This is easiest to handle when a recipe is managed either
 by a website (which likely has its own internal primary keys) or a piece of
-commerciak software that has been registered to a user, using a registration
+commercial software that has been registered to a user, using a registration
 key.
 
 Ideally, a central source should be set up for companies to register their
