@@ -1,91 +1,94 @@
-recipe_uuid: None
+recipe_uuid:
 recipe_name: Banana Bread
-author: Joseph Hall <perlhoser@gmail.com>
-source_url: None
-source_book: None
-oven_temp: 350F
+source_authors: Joseph Hall <perlhoser@gmail.com>
+source_url:
+source_book:
+oven_temp:
+  amount: 350
+  unit: F
 oven_fan: Off
-bake_time: 50 - 60 minutes
+oven_time: 50 - 60 minutes
 yields:
-  - loaves: 3
+  - amount: 3
+    unit: loaves
 ingredients:
-  - All Purpose Flour:
-      usda_num: 20581
-      amounts:
-        - amount: 3 1/2
-          unit: cups
-      substitutions:
-        - Oat Flour:
-          usda_num: '08122'
-          amounts:
-            - amount: '3 1/2'
-              unit: cups
-          notes:
-            - Make oat flour by processing instant oats in food processor.
-  - Baking Soda:
-      usda_num: 18372
-      amounts:
-        - amount: 2
-          unit: tsp
-  - Baking Powder:
-      usda_num: 18369
-      amounts:
-        - amount: 2
-          unit: tsp
-  - Salt:
-      usda_num: '02047'
-      amounts:
-        - amount: 1
-          unit: tsp
-  - Cinnamon, Ground:
-      usda_num: '02010'
-      amounts:
-        - amount: 2
-          unit: tsp
-  - Cloves, Ground:
-      usda_num: '02011'
-      amounts:
-        - amount: 1
-          unit: tsp
-  - Nutmeg, Ground:
-      usda_num: '02025'
-      amounts:
-        - amount: 1
-          unit: tsp
-  - Butter, Unsalted:
-      usda_num: '01145'
-      amounts:
-        - amount: 1
-          unit: cup
-      notes:
-        - Melted
-  - Granulated Sugar:
-      usda_num: 19335
-      amounts:
-        - amount: '1 1/2'
-          unit: cups
-  - Bananas:
-      usda_num: '09040'
-      amounts:
-        - amount: 6
-          unit: each
-  - Eggs, Large:
-      usda_num: '01123'
-      amounts:
-        - amount: 4
-          unit: cups
-  - Vanilla Extract:
-      usda_num: '02050'
-      amounts:
-        - amount: 2
-          unit: tsp
-  - Chocolate Chips, Bittersweet:
-      usda_num: 19080
-      amounts:
-        - amount: 2
-          unit: cups
-      notes:
-        - Optional
+  - ingredient: All Purpose Flour
+    usda_num: 20581
+    amounts:
+      - amount: 3 1/2
+        unit: cups
+    substitutions:
+      - ingredient: Oat Flour
+        usda_num: '08122'
+        amounts:
+          - amount: '3 1/2'
+            unit: cups
+        notes:
+          - Make oat flour by processing instant oats in food processor.
+  - ingredient: Baking Soda
+    usda_num: 18372
+    amounts:
+      - amount: 2
+        unit: tsp
+  - ingredient: Baking Powder
+    usda_num: 18369
+    amounts:
+      - amount: 2
+        unit: tsp
+  - ingredient: Salt
+    usda_num: '02047'
+    amounts:
+      - amount: 1
+        unit: tsp
+  - ingredient: Cinnamon, Ground
+    usda_num: '02010'
+    amounts:
+      - amount: 2
+        unit: tsp
+  - ingredient: Cloves, Ground
+    usda_num: '02011'
+    amounts:
+      - amount: 1
+        unit: tsp
+  - ingredient: Nutmeg, Ground
+    usda_num: '02025'
+    amounts:
+      - amount: 1
+        unit: tsp
+  - ingredient: Butter, Unsalted
+    usda_num: '01145'
+    amounts:
+      - amount: 1
+        unit: cup
+    notes:
+      - Melted
+  - ingredient: Granulated Sugar
+    usda_num: 19335
+    amounts:
+      - amount: '1 1/2'
+        unit: cups
+  - ingredient: Bananas
+    usda_num: '09040'
+    amounts:
+      - amount: 6
+        unit: each
+  - ingredient: Eggs, Large
+    usda_num: '01123'
+    amounts:
+      - amount: 4
+        unit: cups
+  - ingredient: Vanilla Extract
+    usda_num: '02050'
+    amounts:
+      - amount: 2
+        unit: tsp
+  - ingredient: Chocolate Chips, Bittersweet
+    usda_num: 19080
+    amounts:
+      - amount: 2
+        unit: cups
+    notes:
+      - Optional
 steps:
   - step:
       Preheat oven to 350F.
