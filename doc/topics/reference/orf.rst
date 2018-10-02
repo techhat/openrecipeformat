@@ -42,6 +42,10 @@ ingredient
 A dict of items, describing an ingredient, and how much of that ingredient to
 use.
 
+ingredient
+``````````
+The name of the ingredient.
+
 amounts
 ```````
 A list of dicts which describe the amounts to use. Normally, the list will only
