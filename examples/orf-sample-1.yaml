@@ -1,58 +1,58 @@
 recipe_uuid: blah-001
 recipe_name: My Recipe
-author: Me
+source_authors: Me
 source_url: http://localhost/
-source_book: none
-oven_temp: none
-oven_fan: none
-bake_time: none
+source_book:
+oven_temp:
+oven_fan:
+oven_time:
 yields:
-  - servings:
-      4
-  - servings:
-      10
+  - amount: 4
+    unit: servings
+  - amount: 10
+    unit: servings
 ingredients:
-  - apple:
-      usda_num: 09003
-      amounts:
-        - amount: 4
-          unit: each
-        - amount: 10
-          unit: each
-      processing:
-        - whole
-        - raw
-      substitutions:
-        - pears:
-          usda_num: 09252
-          amounts:
-            - amount: 4
-              unit: each
-            - amount: 10
-              unit: each
-      notes:
-        - Use whole apples
-        - Pears may be substituted, but produce a different flavor and mouthfeel
-  - banana:
-      usda_num: 09040
-      amounts:
-        - amount: 4
-          unit: each
-        - amount: 10
-          unit: each
+  - ingredient: apple
+    usda_num: 09003
+    amounts:
+      - amount: 4
+        unit: each
+      - amount: 10
+        unit: each
+    processing:
+      - whole
+      - raw
+    substitutions:
+      - ingredient: pears
+        usda_num: 09252
+        amounts:
+          - amount: 4
+            unit: each
+          - amount: 10
+            unit: each
+    notes:
+      - Use whole apples
+      - Pears may be substituted, but produce a different flavor and mouthfeel
+  - ingredient: banana
+    usda_num: 09040
+    amounts:
+      - amount: 4
+        unit: each
+      - amount: 10
+        unit: each
 steps:
   - step:
       Hand out the apples
     haccp: The apples must be clean
     notes:
-    - Some people like green
-    - Some people like red
+      - Some people like green
+      - Some people like red
   - step:
       Hand out the bananas
     haccp: The bananas must be clean
     notes:
-    - Some people like green
-    - Most people don't like black 
+      - Some people like green
+      - Most people don't like black 
   - step:
       Enjoy
 notes:
