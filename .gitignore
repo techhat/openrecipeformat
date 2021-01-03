@@ -1,0 +1,11 @@
+# python ignores
+__pycache__/
+*.py[cod]
+.python-version
+
+# sphinx build artifacts for RTD local testing
+doc/conf.py
+doc/_build
+
+# OS ignores
+.DS_Store
