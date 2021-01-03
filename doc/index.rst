@@ -1,9 +1,13 @@
-:orphan:
-
 .. _contents:
 
 Open Recipe Format
 ==================
+
+.. toctree::
+   :maxdepth: 2
+
+   topics/tutorials/*
+   topics/reference/*
 
 In the beginning, there was food. And then there were dishes. And somewhere down
 the line, people started writing down how to make the dishes. And most of them
