@@ -18,7 +18,7 @@ environments such as Gnome, KDE and Windows, is planned.
 
 
 Distributed Revision Control
-============================
+----------------------------
 Classical revision control systems used a centralized repository server, from
 which a user could check out files, modify them, and check them back in. Some
 older systems, such as CVS, would maintain version numbers of the repository
@@ -53,7 +53,7 @@ Confused yet? Don't worry, we'll take it step by step.
 
 
 Initializing a Repo
-===================
+-------------------
 This guide assumes the use of GitHub, a popular site which maintains Git
 repositories (known as "repos"), using both free and paid models. There are
 other stellar hosting options available, but by and large the usage will be the
@@ -79,7 +79,7 @@ TODO: Push the repository to origin
 
 
 Creating a Recipe
-=================
+-----------------
 We'll create a simple recipe, using your favorite text editor. This recipe will
 be saved as ~/git/myrecipes/apple.yaml:
 

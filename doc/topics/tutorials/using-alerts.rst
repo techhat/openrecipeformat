@@ -17,7 +17,7 @@ Please note that as with the `date` command, these abbreviations are case-
 sensitive; `M` refers to minutes, while `m` refers to months.
 
 Long-Term Durations
-===================
+-------------------
 The first question in many cooks' minds will be, why worry about anything longer
 than hours? Bear in mind that this format is intended to be usable in any
 situation where food is to be prepared. The following are all valid use cases:
@@ -28,7 +28,7 @@ situation where food is to be prepared. The following are all valid use cases:
 * Allowing whiskey to age in barrels for several years.
 
 Software-Based Alerts
-=====================
+---------------------
 With these considerations in mind, software can be written that helps the cook
 manage recipes, and alert the cook when an action needs to be taken.
 
@@ -42,6 +42,6 @@ at once, and allow the food producer to store their own internal storage
 information (bin codes, batch dates, etc) within the software.
 
 Examples
-========
+--------
 .. include:: <duck-prosciutto.yaml>
 
