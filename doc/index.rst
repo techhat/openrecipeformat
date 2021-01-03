@@ -1,4 +1,15 @@
-:orphan:
+.. toctree::
+   :maxdepth: 4
+   :hidden:
+   :glob:
+
+   self
+   /topics/tutorials/walkthrough.rst
+   /topics/reference/orf.rst
+   /topics/reference/onf.rst
+   /topics/tutorials/using-alerts.rst
+   /topics/tutorials/git.rst
+   /topics/writing_recipes.rst
 
 .. _contents:
 
@@ -51,7 +62,7 @@ start in their coding efforts.
 
 
 Getting Started
-===============
+---------------
 
 This walkthrough is made to help individuals get started quickly and gain a
 foundational knowledge of the Open Recipe Format:
