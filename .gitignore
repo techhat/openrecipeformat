@@ -9,3 +9,7 @@ doc/_build
 
 # OS ignores
 .DS_Store
+
+# IDE ignores
+.vscode/
+.idea/
