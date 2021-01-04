@@ -3,7 +3,7 @@ recipe_name: Banana Bread
 source_authors: Joseph Hall <perlhoser@gmail.com>
 source_url: None
 source_book: None
-oven_temp: 
+oven_temp:
   - amount: 350
     unit: F
 oven_fan: Off
@@ -19,12 +19,12 @@ ingredients:
           unit: cups
       substitutions:
         - Oat Flour:
-          usda_num: 08122
-          amounts:
-            - amount: 3 1/2
-              unit: cups
-          notes:
-            - Make oat flour by processing instant oats in food processor.
+            usda_num: '08122'
+            amounts:
+              - amount: 3 1/2
+                unit: cups
+            notes:
+              - Make oat flour by processing instant oats in food processor.
   - Baking Soda:
       usda_num: 18372
       amounts:
@@ -36,32 +36,32 @@ ingredients:
         - amount: 2
           unit: tsp
   - Salt:
-      usda_num: 02047
+      usda_num: '02047'
       amounts:
         - amount: 1
           unit: tsp
   - Cinnamon, Ground:
-      usda_num: 02010
+      usda_num: '02010'
       amounts:
         - amount: 2
           unit: tsp
   - Cloves, Ground:
-      usda_num: 02011
+      usda_num: '02011'
       amounts:
         - amount: 1
           unit: tsp
   - Nutmeg, Ground:
-      usda_num: 02025
+      usda_num: '02025'
       amounts:
         - amount: 1
           unit: tsp
   - Bananas:
-      usda_num: 09040
+      usda_num: '09040'
       amounts:
         - amount: 6
           unit: each
   - Butter, Unsalted:
-      usda_num: 01145
+      usda_num: '01145'
       amounts:
         - amount: 1
           unit: cup
@@ -73,12 +73,12 @@ ingredients:
         - amount: 1 1/2
           unit: cups
   - Eggs, Large:
-      usda_num: 01123
+      usda_num: '01123'
       amounts:
         - amount: 4
           unit: cups
   - Vanilla Extract:
-      usda_num: 02050
+      usda_num: '02050'
       amounts:
         - amount: 2
           unit: tsp
