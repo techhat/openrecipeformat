@@ -7,6 +7,7 @@
    /topics/tutorials/walkthrough.rst
    /topics/reference/orf.rst
    /topics/reference/onf.rst
+   /topics/tutorials/validating-recipe.rst
    /topics/tutorials/using-alerts.rst
    /topics/tutorials/git.rst
    /topics/writing_recipes.rst
@@ -21,7 +22,7 @@ the line, people started writing down how to make the dishes. And most of them
 weren't very good at it. And then they got computers, and they still weren't
 very good at it.
 
-The Open Recipe Format has been designed to solve some basic needs: accurate and 
+The Open Recipe Format has been designed to solve some basic needs: accurate and
 flexible storage of recipes. While there have been attempts in the past to
 create standardized computer recipe formats, they have so far met with failure.
 This stems from several problems, all of which stem from a lack of understanding
@@ -33,7 +34,7 @@ target home cooks. Commercial solutions exist, and address a host of new
 considerations that are not thought to relate to home cooks. The Open Recipe
 Format was initially created by a software engineer with a cooking degree and
 professional kitchen experience. Few, if any, other attempts at writing food
-software, much less standardized recipe data modeling, can make this claim. 
+software, much less standardized recipe data modeling, can make this claim.
 
 At the heart of the Open Recipe Format is an established file format called
 YAML. This format was chosen for a variety of reasons:
@@ -53,11 +54,11 @@ This repository is intended more for programmers than anyone else. As human-
 readable as the format is, it is likely to be confusing to many in its raw
 format. The job of the programmer is to use this spec in the development of
 their own software packages, websites, etc., and provide a friendly interface
-to the end-user. 
+to the end-user.
 
-Many of the files in this repository are intended to document the Open Recipe 
-Format. Others are examples, to help programmers understand how to best use the 
-format. And finally, sample source code is provided to give programmers a jump 
+Many of the files in this repository are intended to document the Open Recipe
+Format. Others are examples, to help programmers understand how to best use the
+format. And finally, sample source code is provided to give programmers a jump
 start in their coding efforts.
 
 
