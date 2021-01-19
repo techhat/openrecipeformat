@@ -4,9 +4,9 @@ Validating ORF Recipe
 The Open Recipe Format is, like other formats, a well-structured format that is
 capable of being parsed by machines. To help with ensuring that a recipe follows
 the :ref:`orf`, the project includes a JSON schema file. You can read more about
-what JSON Schema is `here <https://json-schema.org/>`_, but the gist of it is
-that gist of it is a highly structured file that can be used by tools to
-automatically validate your recipes.
+what JSON Schema is `here <https://json-schema.org/>`_, but the gist of it here
+is that it is a highly structured file that can be used by tools to automatically
+validate your recipes.
 
 The schema for ORF can be found within our GitHub repository in the
 `./schema.json <https://github.com/techhat/openrecipeformat/blob/master/schema.json>`_
