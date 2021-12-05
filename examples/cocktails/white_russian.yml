@@ -1,0 +1,29 @@
+recipe_uuid: cf2e691e-b0e6-492a-aa70-699607dc9e3b
+recipe_name: White Russian
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 1
+          unit: oz
+  - kahlua:
+      amounts:
+        - amount: 1
+          unit: oz
+  - milk:
+      amounts:
+        - amount: 1
+          unit: dash
+steps:
+  - step: 
+      Pour the vodka and kahlua into an old-fashioned glass with ice.
+  - step:
+      Then fill it up with milk.
+notes:

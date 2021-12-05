@@ -1,0 +1,33 @@
+recipe_uuid: 8fe1f154-6687-45cb-a264-96f5fb6973e2
+recipe_name: Honeymoon
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - benedictine:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - apple brandy:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - triple sec:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+steps:
+  - step: 
+      Shake with ice and strain into a cocktail glass.
+  - step:
+      Serve with a tropical umbrella garnish.
+notes:

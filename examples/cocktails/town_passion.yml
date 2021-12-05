@@ -1,0 +1,42 @@
+recipe_uuid: bedc8711-45df-4ba0-ae17-0c4794d9d34e
+recipe_name: Town Passion
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - passion fruit:
+      amounts:
+        - amount: 4
+          unit: fruit
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: oz
+  - simple syrup:
+      amounts:
+        - amount: 2
+          unit: teaspoon
+  - tequila:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - cointreau:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - champagne:
+      amounts:
+        - amount: 2
+          unit: oz
+steps:
+  - step: 
+      Mix the passion-fruit juice and seeds, lime juice, simple syrup, tequila and cointreau in a food processor or blender.
+  - step:
+      Strain, pour into a champange glass filled with ice and add champagne.
+notes:
+  - Invented by Albert Trummer at Town.

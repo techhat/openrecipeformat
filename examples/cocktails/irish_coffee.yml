@@ -1,0 +1,34 @@
+recipe_uuid: c19f5045-c167-404d-8fdc-e74a5b36c3be
+recipe_name: Irish Coffee
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - irish whiskey:
+      amounts:
+        - amount: 2
+          unit: oz
+  - coffee:
+      amounts:
+        - amount: 8
+          unit: oz
+  - caster sugar:
+      amounts:
+        - amount: 2
+          unit: teaspoon
+  - double cream:
+      amounts:
+        - amount: 1
+          unit: dash
+steps:
+  - step: 
+      Pour the whiskey, sugar and coffee into a mug, or a glass rinsed with boiling water, and stir.
+  - step:
+      Pour the cream over the back of a teaspoon held just above the coffee mixture so that it floats on top.
+notes:
+  - The trick is to sip the drink through the layer of cream.

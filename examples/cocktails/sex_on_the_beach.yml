@@ -1,0 +1,39 @@
+recipe_uuid: a88e2aed-220f-404f-9137-f8790c417f1c
+recipe_name: Sex on the Beach
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 1
+          unit: oz
+  - peach schnapps:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - raspberry liqueur:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - orange juice:
+      amounts:
+        - amount: 5
+          unit: oz
+  - soda water:
+      amounts:
+        - amount: 1
+          unit: dash
+  - pineapple:
+      amounts:
+        - amount: 1
+          unit: wedge
+steps:
+  - step: 
+      Mix in a glass with ince, top with soda water and serve with a pineapple wedge.
+notes:

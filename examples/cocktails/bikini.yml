@@ -1,0 +1,53 @@
+recipe_uuid: 8eb60e37-659e-404e-868c-0c4d0414c7ac
+recipe_name: Bikini
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 2
+          unit: oz
+  - light rum:
+      amounts:
+        - amount: 1
+          unit: oz
+  - milk:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - sour mix:
+      amounts:
+        - amount: 1
+          unit: oz
+  - fine sugar:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - lemon juice:
+      amounts:
+        - amount: 0.75
+          unit: oz
+  - lemon:
+      amounts:
+        - amount: 1
+          unit: slice
+  - lime:
+      amounts:
+        - amount: 1
+          unit: slice
+  - orange:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      Shake with ice and pour into a cocktail glass.
+  - step:
+      Garnish with lemon, orange, and lime slices.
+notes:

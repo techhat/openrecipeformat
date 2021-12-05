@@ -1,0 +1,35 @@
+recipe_uuid: 599250a3-166a-44bd-b094-c6ed858d937f
+recipe_name: Lava Gina
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients:
+  - bacardi limon rum:
+      amounts:
+        - amount: 1
+          unit: oz
+  - pissap:
+      amounts:
+        - amount: 3
+          unit: oz
+  - lime juice:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - ginger extract:
+      amounts:
+        - amount: 1
+          unit: dash
+  - orange twist:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step:
+      Mix the ingredients together and serve in an oversized martini glass with an orange twist.
+notes:

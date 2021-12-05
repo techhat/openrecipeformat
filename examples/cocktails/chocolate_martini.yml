@@ -1,0 +1,41 @@
+recipe_uuid: 2c24f953-67e1-45f2-bb34-2f8fe6927bc6
+recipe_name: Choclate Martini
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 2
+          unit: oz
+  - white creme de cacao:
+      amounts:
+        - amount: 0.5
+          unit: oz
+      substitutions:
+        - chcolate liqueur:
+            amounts:
+              - amount: 0.5
+              - unit: oz
+  - chocolate shavings:
+      amounts:
+        - amount: 1
+          unit: garnish
+      substitutions:
+        - chocolate-dipped cherry:
+            amounts:
+              - amount: 1
+              - unit: berry
+steps:
+  - step: 
+      Pour vodka and white creme de cacao or chocolate liqueur over ice in a mixing glass.
+  - step:
+      Stir and strain into a cocktail glass.
+  - step:
+      Garnish with chocolate shavings or a chocolate-covered strawberry.
+notes:

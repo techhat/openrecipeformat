@@ -1,0 +1,33 @@
+recipe_uuid: d5221b75-6fc5-40a8-95b5-3c4b3045616a
+recipe_name: True Love
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - peppermint schnapps:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - white creme de cacao:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - soda water:
+      amounts:
+        - amount: 1
+          unit: dash
+  - heart-shaped chocolate:
+      amounts:
+        - amount: 1
+          unit: piece
+steps:
+  - step: 
+      Pour over ice in a highball glass, fill with soda water.
+  - step:
+      Garnish with a heart-shaped chocolate.
+notes:

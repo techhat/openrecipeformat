@@ -1,0 +1,35 @@
+recipe_uuid: 22e9a031-fb0c-4291-b949-d2d4b46b61e8
+recipe_name: Orgasm
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 1
+          unit: oz
+  - kahlua:
+      amounts:
+        - amount: 1
+          unit: oz
+  - amaretto:
+      amounts:
+        - amount: 1
+          unit: oz
+  - orange liqueur:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - milk:
+      amounts:
+        - amount: 1
+          unit: dash
+steps:
+  - step: 
+      Pour the liquor into a highball glass with ice and fill with milk.
+notes:

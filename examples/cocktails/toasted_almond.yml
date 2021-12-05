@@ -1,0 +1,29 @@
+recipe_uuid: af1dd860-1816-4168-a77f-2caf68b9dbb9
+recipe_name: Toasted Almond
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - kahlua:
+      amounts:
+        - amount: 1
+          unit: oz
+  - amaretto:
+      amounts:
+        - amount: 1
+          unit: oz
+  - milk:
+      amounts:
+        - amount: 1
+          unit: dash
+steps:
+  - step: 
+      Mix the kahlua and amaretto with ice and strain into a cocktail glass.
+  - step:
+      Add milk to taste.
+notes:

@@ -1,0 +1,31 @@
+recipe_uuid: c28966ad-da48-4bca-b519-9cdfc9bce7be
+recipe_name: Blue Velvet
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 2.5
+          unit: oz
+  - blue curacao:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - lime juice:
+      amounts:
+        - amount: 2
+          unit: oz
+  - lime:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      Shake with ice into a cocktail shaker, strain into a cocktail glass and garnish with a slice of lime.
+notes:

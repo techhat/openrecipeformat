@@ -1,0 +1,31 @@
+recipe_uuid: 695cab23-ef8a-48c0-8323-3a2025522d3a
+recipe_name: Coney Island Hit Parade
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - irish cream:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - black raspberry liqueur:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - grenadine:
+      amounts:
+        - amount: 1
+          unit: dash
+  - raspberry:
+      amounts:
+        - amount: 4
+          unit: berry
+steps:
+  - step: 
+      Mix the irish cream, raspberry liqueur and a dash of grenadine over ice in an old-fashioned glass and add the raspberries.
+notes:

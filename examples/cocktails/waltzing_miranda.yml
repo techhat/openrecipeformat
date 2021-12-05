@@ -1,0 +1,46 @@
+recipe_uuid: f70d4541-461c-47a3-89f8-028d359e6171
+recipe_name: Waltzing Miranda
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - dry white wine:
+      amounts:
+        - amount: 4
+          unit: oz
+  - gin:
+      amounts:
+        - amount: 1
+          unit: oz
+  - white curacao:
+      amounts:
+        - amount: 0.25
+          unit: dash
+  - fruit punch:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - club soda:
+      amounts:
+        - amount: 1
+          unit: dash
+  - grenadine:
+      amounts:
+        - amount: 1
+          unit: dash
+  - orange peel:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step: 
+      Shake the first four ingredients with ice and strain into a chilled highball.
+  - step:
+      Fill with soda, add a dash of grenadine and drop a twist of orange peel into the glass.
+notes:
+  - Originally titled the "Waltzing Matilda", we've renamed this one in honor of our friend Miranda.

@@ -1,0 +1,46 @@
+recipe_uuid: 16609927-f118-41a0-8bd1-a158755e4d19
+recipe_name: Key West
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - black raspberry liqueur:
+      amounts:
+        - amount: 1
+          unit: oz
+  - light rum:
+      amounts:
+        - amount: 1
+          unit: oz
+  - orange juice:
+      amounts:
+        - amount: 2
+          unit: oz
+  - sour mix:
+      amounts:
+        - amount: 1
+          unit: oz
+  - club soda:
+      amounts:
+        - amount: 5
+          unit: oz
+  - orange:
+      amounts:
+        - amount: 1
+          unit: slice
+  - lime:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      Mis in a tall glass with ice.
+  - step:
+      Add lime and orange slides to garnish.
+notes:
+  - Optionally, add watermelon and canteloupe balls.

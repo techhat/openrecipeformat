@@ -1,0 +1,28 @@
+recipe_uuid: a465ef47-0b59-4c73-8259-362304c57aeb
+recipe_name: Chocolate-Covered Strawberry
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 4
+          unit: oz
+  - strawberry liqueur:
+      amounts:
+        - amount: 2
+          unit: oz
+  - godiva liqueur:
+      amounts:
+        - amount: 1
+          unit: oz
+steps:
+  - step: 
+      Prepare on ice and strain into a martini glass.
+notes:
+  - Invented by Heather Culton at 'Madame X'.

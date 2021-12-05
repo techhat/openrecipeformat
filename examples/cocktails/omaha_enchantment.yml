@@ -1,0 +1,33 @@
+recipe_uuid: abc7bfc4-1f8e-474c-be4d-fec8a5799190
+recipe_name: Omaha Enchantment
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - melon liqueur:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - banana liqueur:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - irish cream:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - pineapple juice:
+      amounts:
+        - amount: 0.5
+          unit: oz
+steps:
+  - step: 
+      Shake with ice and strain into a cocktail glass.
+  - step:
+      Add a green swizzle stick and toast the Union Pacific Railroad.
+notes:

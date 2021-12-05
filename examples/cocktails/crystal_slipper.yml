@@ -1,0 +1,33 @@
+recipe_uuid: 621e665f-168f-44bb-9a8c-4bd7d77c9cf1
+recipe_name: Crystal Slipper
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - gin:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - blue curacao:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - orange bitters:
+      amounts:
+        - amount: 2
+          unit: dash
+  - happy couple:
+      amounts:
+        - amount: 1
+          unit: couple
+steps:
+  - step: 
+      Stir ingredients in a mixing glass with ice.
+  - step:
+      Strain into a cocktail glass and toast the happy couple.
+notes:

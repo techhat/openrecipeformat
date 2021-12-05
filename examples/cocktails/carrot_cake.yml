@@ -1,0 +1,31 @@
+recipe_uuid: 3b81d5c7-c9d8-4665-8437-509d674b8538
+recipe_name: Carrot Cake
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - irish cream:
+      amounts:
+        - amount: 1
+          unit: oz
+  - kahlua:
+      amounts:
+        - amount: 1
+          unit: oz
+  - butterscotch schnapps:
+      amounts:
+        - amount: 1
+          unit: oz
+  - cinnamon schnapps:
+      amounts:
+        - amount: 0.25
+          unit: oz
+steps:
+  - step:
+      Shake with ice and serve in a chilled cocktail glass.
+notes:

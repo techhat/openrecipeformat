@@ -1,0 +1,44 @@
+recipe_uuid: 02816e68-52ac-4760-bffa-483157630c1b
+recipe_name: Mojito
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - bacardi limon rum:
+      amounts:
+        - amount: 2
+          unit: oz
+  - dark rum:
+      amounts:
+        - amount: 1
+          unit: oz
+  - mint leaves:
+      amounts:
+        - amount: 1
+          unit: handful
+  - lemon lime soda:
+      amounts:
+        - amount: 1
+          unit: dash
+  - sugar:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - lime:
+      amounts:
+        - amount: 1
+          unit: wedge
+steps:
+  - step: 
+      Muddle mint leaves in the serving glass.
+  - step:
+      Wet the rim of a chilled glass and dip it in sugar.
+  - step:
+      Mix ingredients together, strain into the serving glass and drop in a wedge of lime.
+notes:
+  Recipe sourced from the bar 'Pop'.

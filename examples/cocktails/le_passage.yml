@@ -1,0 +1,23 @@
+recipe_uuid: 58633010-9dfd-4857-9c94-bd3aad33c8f8
+recipe_name: Le Passage
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - irish cream:
+      amounts:
+        - amount: 2
+          unit: oz
+  - malibu rum:
+      amounts:
+        - amount: 2
+          unit: oz
+steps:
+  - step: 
+      Shake vigorously with ice and strain into a chilled martini glass.
+notes:

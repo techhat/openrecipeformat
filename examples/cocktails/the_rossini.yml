@@ -1,0 +1,24 @@
+recipe_uuid: 18f07f34-b7e2-4eea-8a1f-086b0d55015e
+recipe_name: The Rossini
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - strawberry puree:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - champagne:
+      amounts:
+        - amount: 1
+          unit: oz
+steps:
+  - step: 
+      Mix in a shaker and strain into a champange flute.
+notes:
+  - Invented by Albert Trummer at Town.

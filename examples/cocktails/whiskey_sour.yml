@@ -1,0 +1,37 @@
+recipe_uuid: 68292229-c25e-4678-b570-3ceb34cb900b
+recipe_name: Whiskey Sour
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - whiskey:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - sour mix:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: dash
+  - cherry:
+      amounts:
+        - amount: 1
+          unit: berry
+  - orange:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      Shake with ice and strain into a cocktail glass.
+  - step:
+      Garnish with a cherry and a slice of orange.
+notes:

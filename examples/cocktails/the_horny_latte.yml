@@ -1,0 +1,41 @@
+recipe_uuid: 4fe4cc31-bb5a-4e4d-9a74-b7290c0c6f77
+recipe_name: The Horny Latte
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - espresso:
+      amounts:
+        - amount: 0.75
+          unit: shot
+  - vanilla vodka:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - kahlua:
+      amounts:
+        - amount: 0.25
+          unit: oz
+  - tia maria:
+      amounts:
+        - amount: 0.25
+          unit: oz
+  - irish cream:
+      amounts:
+        - amount: 0.25
+          unit: oz
+  - espresso beans:
+      amounts:
+        - amount: 3
+          unit: bean
+steps:
+  - step: 
+      Shake with ice.
+  - step:
+      Strain and serve in a chilled martini glass with three espresso beans.
+notes:

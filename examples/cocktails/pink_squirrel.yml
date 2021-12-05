@@ -1,0 +1,33 @@
+recipe_uuid: c101f1ad-aed1-4d37-9058-b74b048821d0
+recipe_name: Pink Squirrel
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - white creme de cacao:
+      amounts:
+        - amount: 1
+          unit: oz
+  - creme de noyaux:
+      amounts:
+        - amount: 1
+          unit: oz
+  - double cream:
+      amounts:
+        - amount: 1
+          unit: oz
+  - grenadine:
+      amounts:
+        - amount: 0.5
+          unit: oz
+steps:
+  - step: 
+      Mix the ingredients with ice in a shaker or blender.
+  - step:
+      Strain into a chilled cocktail glass.
+notes:

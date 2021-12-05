@@ -1,0 +1,33 @@
+recipe_uuid: 67c379bd-0785-4d7c-8e75-48cf7077d733
+recipe_name: Watermelon Martini
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - watermelon:
+      amounts:
+        - amount: 4
+          unit: slices
+  - simple syrup:
+      amounts:
+        - amount: 1
+          unit: oz
+  - vodka:
+      amounts:
+        - amount: 3
+          unit: oz
+steps:
+  - step: 
+      In a metal shaker, crush three watermelon slices and mix with the simple syrup.
+  - step:
+      Add the ice and vodka.
+  - step:
+      Shake vigorously and strain into a chilled martinit glass.
+  - step:
+      Garnish with a slice of watermelon.
+notes:

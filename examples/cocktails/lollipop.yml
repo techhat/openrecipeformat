@@ -1,0 +1,31 @@
+recipe_uuid: 4401bb15-f05e-4376-8c99-4d93558afbf3
+recipe_name: Lollipop
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - orange liqueur:
+      amounts:
+        - amount: 1
+          unit: oz
+  - kirsch:
+      amounts:
+        - amount: 0.67
+          unit: oz
+  - green chartreuse:
+      amounts:
+        - amount: 0.5
+          unit: dash
+  - maraschino cherry liqueur:
+      amounts:
+        - amount: 3
+          unit: dash
+steps:
+  - step: 
+      Shake with ice and strain into a chilled cocktail glass.
+notes:

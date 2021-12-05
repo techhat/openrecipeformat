@@ -1,0 +1,37 @@
+recipe_uuid: fcd35ed6-2c99-4eab-81c4-b40563b3a245
+recipe_name: Sex in the Winter
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - kahlua:
+      amounts:
+        - amount: 1
+          unit: oz
+  - orange liqueur:
+      amounts:
+        - amount: 1
+          unit: oz
+  - vanilla vodka:
+      amounts:
+        - amount: 1
+          unit: dash
+  - milk:
+      amounts:
+        - amount: 3
+          unit: oz
+  - fireplace:
+      amounts:
+        - amount: 1
+          unit: hearth
+steps:
+  - step: 
+      Gently heat the milk, kahlua and orange liqueur, and pour into a mug before it boils.
+  - step:
+      Add a dash of vodka and serve by the fireplace.
+notes:

@@ -1,0 +1,38 @@
+recipe_uuid: bdafa649-0878-43d0-b9dc-d4d8a7badad6
+recipe_name: Manhattan
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - whiskey:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - sweet vermouth:
+      amounts:
+        - amount: 0.67
+          unit: oz
+  - angostura bitters:
+      amounts:
+        - amount: 1
+          unit: dash
+  - lemon:
+      amounts:
+        - amount: 1
+          unit: twist
+  - cherry:
+      amounts:
+        - amount: 1
+          unit: berry
+steps:
+  - step:
+      Stir with ice and strain into a chilled cocktail glass.
+  - step:
+      Garnish with a cherry or lemon twist.
+notes:
+  - The 'Manhattan Club' created this drink to entertain politician, Samuel J. Tilden.

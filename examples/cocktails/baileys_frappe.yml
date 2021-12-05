@@ -1,0 +1,21 @@
+recipe_uuid: ccb706e4-a282-457f-b75e-5180be34e280
+recipe_name: Bailey's Frappe
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - baileys:
+      amounts:
+        - amount: 2
+          unit: oz
+steps:
+  - step: 
+      Pour Bailey's Irish cream over crushed ice.
+  - step:
+      Serve in an old-fashioned milkshake glass with a straw.
+notes:

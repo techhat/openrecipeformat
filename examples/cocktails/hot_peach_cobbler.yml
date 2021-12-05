@@ -1,0 +1,39 @@
+recipe_uuid: 37e43f02-e0f7-4da6-867e-410d292f69c2
+recipe_name: Hot Peach Cobbler
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - apple cider:
+      amounts:
+        - amount: 4
+          unit: oz
+  - peach schnapps:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - cinnamon:
+      amounts:
+        - amount: 1
+          unit: dash
+  - cinnamon stick:
+      amounts:
+        - amount: 1
+          unit: stick
+  - vanilla ice cream:
+      amounts:
+        - amount: 1
+          unit: scoop
+steps:
+  - step: 
+      Gently heat the cider and pour it into a mug.
+  - step:
+      Add the peach schnapps and a dash of cinnamon and stir with a cinnamon stick.
+  - step:
+      Add a scoop of vanilla ice cream if you are feeling adventurous!
+notes:

@@ -1,0 +1,24 @@
+recipe_uuid: 7f190a49-7fba-419b-81e6-4507d32e802c
+recipe_name: The White Spider
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 2
+          unit: oz
+  - white creme de menthe:
+      amounts:
+        - amount: 1
+          unit: oz
+steps:
+  - step: 
+      Shake with ice, strain and serve in a martini glass.
+notes:
+  - Suggested to the author by Greg Chow, the erotic drinks columnist for 'Mojo' magazine.

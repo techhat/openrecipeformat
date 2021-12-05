@@ -1,0 +1,27 @@
+recipe_uuid: 189d6417-01aa-47cc-b1d3-0eeb26bab9b7
+recipe_name: Sex
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - kahlua:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - orange liqueur:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - orange:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      Mix over ice and serve in a highball glass with a slice of orange.
+notes:

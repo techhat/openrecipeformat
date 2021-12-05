@@ -1,0 +1,23 @@
+recipe_uuid: 7ccce313-16b0-440a-af0d-6ed772b0d21e
+recipe_name: Kir
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - dry white wine:
+      amounts:
+        - amount: 5
+          unit: oz
+  - creme de cassis:
+      amounts:
+        - amount: 0.5
+          unit: oz
+steps:
+  - step: 
+      Mix the chilled ingredients and serve in a wine glass.
+notes:

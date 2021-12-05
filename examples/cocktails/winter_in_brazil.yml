@@ -1,0 +1,31 @@
+recipe_uuid: bb6a9608-36f7-49bf-8fca-9605e588a3b3
+recipe_name: Winter in Brazil
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - malibu rum:
+      amounts:
+        - amount: 2
+          unit: oz
+  - hot chocolate:
+      amounts:
+        - amount: 8
+          unit: oz
+  - whipped cream:
+      amounts:
+        - amount: 1
+          unit: dash
+  - chocolate shavings:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step: 
+      Pour the rum into the hot chocolate and top with whipped cream and shaved chocolate pieces.
+notes:

@@ -1,0 +1,33 @@
+recipe_uuid: bf4169d1-5f4f-462d-a4a7-54d3d2535abd
+recipe_name: Cape Codder
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 1.25
+          unit: oz
+  - cranberry juice:
+      amounts:
+        - amount: 3
+          unit: oz
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: dash
+  - lime:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      Pour the vodka over ice, add cranberry juice and a dash of lime juice.
+  - step:
+      Garnish with a slice of lime.
+notes:

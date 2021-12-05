@@ -1,0 +1,32 @@
+recipe_uuid: fd16849a-f20f-42f3-8f87-980a50b3f296
+recipe_name: Grasshopper
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - green creme de menthe:
+      amounts:
+        - amount: 1
+          unit: oz
+  - white creme de cacao:
+      amounts:
+        - amount: 1
+          unit: oz
+  - double cream:
+      amounts:
+        - amount: 1
+          unit: oz
+      substitutions:
+        - vanilla ice cream:
+            amounts:
+              - amount: 2
+              - unit: scoop
+steps:
+  - step: 
+      Shake with ice and strain into a cocktail glass.
+notes:

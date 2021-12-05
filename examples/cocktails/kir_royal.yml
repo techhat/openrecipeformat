@@ -1,0 +1,23 @@
+recipe_uuid: 0ecb932c-13bb-4058-8414-ad503802e4d5
+recipe_name: Kir Royal
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - champagne:
+      amounts:
+        - amount: 2
+          unit: oz
+  - framboise:
+      amounts:
+        - amount: 1
+          unit: dash
+steps:
+  - step: 
+      Pour the champagne into a flue and add a dash of framboise for color.
+notes:

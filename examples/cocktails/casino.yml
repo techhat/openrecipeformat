@@ -1,0 +1,37 @@
+recipe_uuid: 595c4ead-b0c6-4f0a-a35b-ff35edbb35a5
+recipe_name: Casino
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - gin:
+      amounts:
+        - amount: 2
+          unit: oz
+  - maraschino cherry liqueur:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - lemon juice:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - orange bitters:
+      amounts:
+        - amount: 2
+          unit: dash
+  - maraschino cherry:
+      amounts:
+        - amount: 1
+          unit: berry
+steps:
+  - step: 
+      Shake with ice and strain into a cocktail glass.
+  - step:
+      Top with a maraschino cherry.
+notes:

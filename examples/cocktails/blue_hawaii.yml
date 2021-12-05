@@ -1,0 +1,46 @@
+recipe_uuid: 0bcef4d1-cb18-46f5-b58f-8ab59f285649
+recipe_name: Blue Hawaii
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - dark rum:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - light rum:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - blue curacao:
+      amounts:
+        - amount: 1
+          unit: oz
+  - orange juice:
+      amounts:
+        - amount: 1
+          unit: oz
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: oz
+  - orange:
+      amounts:
+        - amount: 1
+          unit: slice
+  - cherry:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step: 
+      Shake with ice and strain into a highball glass filled with ice.
+  - step:
+      Serve with a slice of orange and a red cherry.
+notes:
+  - Optionally, serve with a slice of pineapple and coconut slivers.

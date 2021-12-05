@@ -1,0 +1,47 @@
+recipe_uuid: aadf9136-9f3a-4fdf-8174-a490101583bc
+recipe_name: Rockaway Beach
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - light rum:
+      amounts:
+        - amount: 1
+          unit: oz
+  - dark rum:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - orange juice:
+      amounts:
+        - amount: 1
+          unit: oz
+  - pineapple juice:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - cranberry juice:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - creme de noyaux:
+      amounts:
+        - amount: 1
+          unit: dash
+  - cherry:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step: 
+      Mix all of the ingredients in a cocktail shaker with ice and shake.
+  - step:
+      Strain into a highball glass.
+  - step:
+      Garnish with a cherry.
+notes:

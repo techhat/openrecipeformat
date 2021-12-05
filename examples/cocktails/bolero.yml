@@ -1,0 +1,29 @@
+recipe_uuid: 383061f0-995a-4783-b441-fc13fab9bc1b
+recipe_name: Bolero
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - light rum:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - apple brandy:
+      amounts:
+        - amount: 0.67
+          unit: oz
+  - sweet vermouth:
+      amounts:
+        - amount: 0.25
+          unit: oz
+steps:
+  - step: 
+      Pour all the ingredients into a mixing glass with crushed ice and stir well.
+  - step:
+      Strain into an old-fashioned glass with ice cubes.
+notes:

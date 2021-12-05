@@ -1,0 +1,28 @@
+recipe_uuid: 3e0d18b1-2642-4289-9d6d-20195a7808cf
+recipe_name: Batida de Coco
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - malibu rum:
+      amounts:
+        - amount: 2
+          unit: oz
+  - passion fruit juice:
+      amounts:
+        - amount: 2
+          unit: oz
+  - condensed milk:
+      amounts:
+        - amount: 1
+          unit: dash
+steps:
+  - step: 
+      Mix the rum and fruit juice with ice in a tumbler, and add condensed milk to taste.
+notes:
+  - For a party, make the above recipe times eight and serve in a pitcher.

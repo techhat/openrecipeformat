@@ -1,0 +1,41 @@
+recipe_uuid: 6d481171-e6a4-418d-9d65-ba9a66ca50ef
+recipe_name: Mocha Kiss
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - khalua:
+      amounts:
+        - amount: 1
+          unit: oz
+  - orange liqueur:
+      amounts:
+        - amount: 1
+          unit: oz
+  - irish cream:
+      amounts:
+        - amount: 2
+          unit: oz
+  - mocha syrup:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - whipped cream:
+      amounts:
+        - amount: 1
+          unit: dash
+  - dark chocolate:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step: 
+      Mix with ice and pour into an old-fashioned glass.
+  - step:
+      Garnish with whipped cream and shaved dark chocolate.
+notes:

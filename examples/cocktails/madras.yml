@@ -1,0 +1,37 @@
+recipe_uuid: 6ebbd621-22ce-4f5a-bf6f-2fe636a48411
+recipe_name: Madras
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 2
+          unit: oz
+  - orange juice:
+      amounts:
+        - amount: 2
+          unit: oz
+  - cranberyy juice:
+      amounts:
+        - amount: 1
+          unit: oz
+  - lime:
+      amounts:
+        - amount: 1
+          unit: slice
+  - orange:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      Pour the vodka and juices into a highball filled with ice.
+  - step:
+      Garnish with a slice of orange and a slice of lime.
+notes:

@@ -1,0 +1,32 @@
+recipe_uuid: 644287f3-7417-4c43-af0c-329ad2fd2866
+recipe_name: Mocha Mint
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - kahlua:
+      amounts:
+        - amount: 1
+          unit: oz
+  - creme de menthe:
+      amounts:
+        - amount: 0.75
+          unit: oz
+  - white creme de cacao:
+      amounts:
+        - amount: 0.5
+          unit: dash
+      substitutions:
+        - chocolate liqueur:
+            amounts:
+              - amount: 0.5
+              - unit: oz
+steps:
+  - step: 
+      Mix in a shaker with ice and strain into a cocktail glass.
+notes:

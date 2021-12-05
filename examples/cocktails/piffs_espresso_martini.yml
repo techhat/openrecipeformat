@@ -1,0 +1,34 @@
+recipe_uuid: f04dcd5a-54e2-4483-acc8-1339f89d1618
+recipe_name: Piff's Espresso Martini
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - espresso:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - vanilla vodka:
+      amounts:
+        - amount: 2
+          unit: oz
+  - kahlua:
+      amounts:
+        - amount: 1
+          unit: oz
+  - irish cream:
+      amounts:
+        - amount: 1
+          unit: oz
+steps:
+  - step: 
+      Shake the espresso, vodka and kahlua vigorously with ice, then strain into a martini glass.
+  - step:
+      Then, slowly pour the Irish cream into the middle of the glass, so that it settles at the bottom.
+notes:
+  - According to the author's friend, Piff, "You'll produce a nice, long-lasting foam that will reside at the top of the glass."

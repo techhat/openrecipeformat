@@ -1,0 +1,27 @@
+recipe_uuid: 35daa020-cd1a-462f-8b79-3a1687d0bdec
+recipe_name: B-52
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: shot
+ingredients: 
+  - amaretto:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - kahlua:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - irish cream:
+      amounts:
+        - amount: 0.5
+          unit: oz
+steps:
+  - step: 
+      Mix ingredients in a shot glass and serve.
+notes:

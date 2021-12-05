@@ -1,0 +1,46 @@
+recipe_uuid: 58fa5af4-9bf6-4b9e-99db-6fbf017ca87a
+recipe_name: Global Blossom
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - gin:
+      amounts:
+        - amount: 1
+          unit: oz
+  - creme de cassis:
+      amounts:
+        - amount: 2
+          unit: oz
+  - hibiscus tea:
+      amounts:
+        - amount: 1
+          unit: oz
+  - lime juice:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - prosecco:
+      amounts:
+        - amount: 1
+          unit: dash
+  - edible flower:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step: 
+      Place two table spoons of hibiscus petals in a teapot and steep with 16 oz of water for ten minutes, then strain.
+  - step:
+      Pour the first four ingredients into a shaker, add ice and shake vigorously.
+  - step:
+      Strain into a large saucer-type champange or margarita glass filled with crushed ice.
+  - step:
+      Top with prosecco and garnish with a fresh edible flower.
+notes:
+  - Excess tea will keep for 2-3 days when stored in the fridge.

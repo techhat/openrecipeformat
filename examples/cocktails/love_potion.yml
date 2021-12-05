@@ -1,0 +1,46 @@
+recipe_uuid: 21ff2ac3-0036-4c5a-b7eb-15b5ed60cb57
+recipe_name: Love Potion
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: oz
+  - peach schnapps:
+      amounts:
+        - amount: 2
+          unit: oz
+  - orange juice:
+      amounts:
+        - amount: 2
+          unit: oz
+  - cranberry juice:
+      amounts:
+        - amount: 2
+          unit: oz
+  - vodka:
+      amounts:
+        - amount: 3
+          unit: oz
+  - orange:
+      amounts:
+        - amount: 1
+          unit: slice
+  - cherry:
+      amounts:
+        - amount: 1
+          unit: berry
+steps:
+  - step: 
+      Over the back of a spoon or a cherry, pour each layer into a glass in sequence.
+  - step:
+      Serve with a glass of ice on the side garnished with a cherry, orange slice, and cocktail umbrella.
+notes:
+  - For magical effects, for the layered concoction over ice.

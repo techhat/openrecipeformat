@@ -1,0 +1,33 @@
+recipe_uuid: 7928c664-4ff1-49f1-9c3f-4ce0e092f73b
+recipe_name: Lady be Good
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - branch:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - white creme de menthe:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - sweet vermouth:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - mint chocolate ice cream:
+      amounts:
+        - amount: 1
+          unit: scopp
+steps:
+  - step: 
+      Shake the brandy, creme de menthe and vermouth with ice.
+  - step:
+      Strain into a cocktail glass and top with the ice cream.
+notes:

@@ -1,0 +1,32 @@
+recipe_uuid: b1f2d68e-3f97-49da-b743-3523cff2d2f4
+recipe_name: Get Laid
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - raspberry schnapps:
+      amounts:
+        - amount: 1
+          unit: oz
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: oz
+  - cranberry juice:
+      amounts:
+        - amount: 1
+          unit: dash
+steps:
+  - step: 
+      Pour the ingredients over ice into a highball and stir.
+notes:
+  - Take a sip and make your move!

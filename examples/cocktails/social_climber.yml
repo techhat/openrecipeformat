@@ -1,0 +1,31 @@
+recipe_uuid: a68b7524-9bf7-471a-8249-d3b5108926a6
+recipe_name: Social Climber
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - Raspberry Vodka:
+      amounts:
+        - amount: 2
+          unit: oz
+  - creme de cassis:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - lime juice:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - raspberries:
+      amounts:
+        - amount: 3
+          unit: berries
+steps:
+  - step: 
+      Shake the ingredients together with the raspberries, and strain into a chilled martini glass.
+notes:

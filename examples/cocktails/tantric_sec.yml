@@ -1,0 +1,41 @@
+recipe_uuid: 7a7b6126-ace7-4e6b-a177-0a9aec564d9e
+recipe_name: Tantric Sex
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - pear liqueur:
+      amounts:
+        - amount: 2
+          unit: oz
+  - light rum:
+      amounts:
+        - amount: 1
+          unit: oz
+  - apple brandy:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - banana liqueur:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - club soda:
+      amounts:
+        - amount: 1
+          unit: dash
+  - twisty straw:
+      amounts:
+        - amount: 1
+          unit: straw
+steps:
+  - step: 
+      Pour all of the ingredients, except the soda, into a shaker with crushed ice.
+  - step:
+      Shake, then strain and serve in a highball glass, topped with soda and a twisty straw.
+notes:

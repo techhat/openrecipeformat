@@ -1,0 +1,36 @@
+recipe_uuid: c56cf5fd-4e3f-4402-b2d8-e94a1cd66935
+recipe_name: Shirley Temple Black
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vanilla vodka:
+      amounts:
+        - amount: 2
+          unit: oz
+  - vodka-marinated sour cherry:
+      amounts:
+        - amount: 5
+          unit: berry
+  - club soda:
+      amounts:
+        - amount: 1
+          unit: dash
+  - maraschino cherry:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step: 
+      Marinate the sour cherries in vanilla vodka overnight.
+  - step:
+      The next day, spoon them into a highball glass filled with ice, then pour in the vodka.
+  - step:
+      Fill the glass with club soda and top with a maraschino cherry.
+notes:
+  - Invented at The Dining Room.

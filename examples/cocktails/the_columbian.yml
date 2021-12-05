@@ -1,0 +1,33 @@
+recipe_uuid: 6ef7be54-c7f4-4e15-84a3-9b618ba7dc4a
+recipe_name: The Columbian
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vanilla vodka:
+      amounts:
+        - amount: 1
+          unit: oz
+  - white creme de cacao:
+      amounts:
+        - amount: 2
+          unit: oz
+  - espresso:
+      amounts:
+        - amount: 1
+          unit: shot
+steps:
+  - step: 
+      Mix the vodka and creme de cacao with ice in a shaker.
+  - step:
+      Add the espresso and shake really vigorously until foamy.
+  - step:
+      Wet the rim of a chilled martini flass and dip it in sugar, then strain the drink into it.
+notes:
+  - Watch the espresso settle underneath the foam.
+  - Invented by Jennifer Joseph at 'The Dining Room'.

@@ -1,0 +1,45 @@
+recipe_uuid: d866dcc2-7846-4c54-a1fd-ed5f345fc536
+recipe_name: Frozen Strawberry Margarita
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - tequila:
+      amounts:
+        - amount: 1
+          unit: oz
+  - triple sec:
+      amounts:
+        - amount: 0.75
+          unit: oz
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: oz
+  - orange juice:
+      amounts:
+        - amount: 1
+          unit: oz
+  - strawberry:
+      amounts:
+        - amount: 10
+          unit: berry
+      notes:
+        - May substitute with raspberry or mango.
+  - lime:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      Rub a wedge of lime around the rim of a margarita glass and dip it into a sauce of coarse salt.
+  - step:
+      Blend the ingredients with crushed ice.
+  - step:
+      Pour into the glass and garnish with a slice of lime.
+notes:

@@ -1,0 +1,41 @@
+recipe_uuid: 5c252ff5-2296-4408-826e-abfae2c881ea
+recipe_name: Strawberry Daquiri
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - light rum:
+      amounts:
+        - amount: 1.75
+          unit: oz
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: oz
+  - strawberry:
+      amounts:
+        - amount: 9
+          unit: berry
+  - caster sugar:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - lime:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      Set aside one strawberry for garnish.
+  - step:
+      Blend the ingredients until smooth.
+  - step:
+      Add water if the mixture is too thick. Add ice if it is too thin.
+  - step:
+      Pour into a cocktail glass and garnish with lime and a strawberry, then add a straw.
+notes:

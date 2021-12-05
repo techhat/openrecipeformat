@@ -1,0 +1,39 @@
+recipe_uuid: af1927cd-16d7-4e49-84d4-be416763c9de
+recipe_name: Mint Julep
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - mint sprigs:
+      amounts:
+        - amount: 1
+          unit: handful
+  - caster sugar:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+  - water:
+      amounts:
+        - amount: 1
+          unit: tablespoon
+  - bourbon:
+      amounts:
+        - amount: 1.75
+          unit: oz
+steps:
+  - step: 
+      Place the fresh ming in a bowl with sugar and water.
+  - step:
+      Crush the leaves with a spoon and stir.
+  - step:
+      Pour bourbon over ice in a highball glass and add the mixture.
+  - step:
+      Garnish with a fresh mint sprig.
+  - step:
+      Start the betting!
+notes:

@@ -1,0 +1,27 @@
+recipe_uuid: 3c014ba0-00b9-4bbc-b5fb-48c019cfdaaa
+recipe_name: Black Jack
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - blackberry brandy:
+      amounts:
+        - amount: 1
+          unit: oz
+  - jagermeister:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - double cream:
+      amounts:
+        - amount: 1
+          unit: oz
+steps:
+  - step: 
+      Shake with ice and strain into a chilled cocktail glass with crushed ice.
+notes:

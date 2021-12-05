@@ -1,0 +1,36 @@
+recipe_uuid: 40b10d57-f321-4844-9098-ffc87e7109f5
+recipe_name: Mandarin Martini
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - mandarin vodka:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - peach schnapps:
+      amounts:
+        - amount: 1
+          unit: oz
+  - peach nectar:
+      amounts:
+        - amount: 1
+          unit: dash
+  - cranberry juice:
+      amounts:
+        - amount: 1
+          unit: dash
+  - orange wedge:
+      amounts:
+        - amount: 1
+          unit: wedge
+steps:
+  - step: 
+      Shake vigourously and pour into a chilled martini glass, then add a fresh orange wedge.
+
+notes:

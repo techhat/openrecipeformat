@@ -1,0 +1,32 @@
+recipe_uuid: 2a9f2bd7-d6d7-4353-a98d-eb704fd916d3
+recipe_name: Sex and the City Martini
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 4
+          unit: oz
+  - fruit cognac:
+      amounts:
+        - amount: 1
+          unit: oz
+  - cranberry juice:
+      amounts:
+        - amount: 1
+          unit: dash
+  - lemon twist:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step: 
+      Shake vigorously and pour into a chilled martini glass.
+notes:
+  - Joe Alberti created this drink after an episode of 'Sex and the City' was filmed in 'The Bar at the Stanhope'.

@@ -1,0 +1,33 @@
+recipe_uuid: 5e8e4bbe-a972-425d-9a3a-496e52000ac1
+recipe_name: Rocky Road
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - hazelnut liqueur:
+      amounts:
+        - amount: 1
+          unit: oz
+  - white creme de cacao:
+      amounts:
+        - amount: 1
+          unit: oz
+  - milk:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - rocky road ice cream:
+      amounts:
+        - amount: 1
+          unit: scoop
+steps:
+  - step: 
+      Shake with ice and strain into an old-fashioned glass.
+  - step:
+      Serve with a scoop of rocky-road ice cream.
+notes:

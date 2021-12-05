@@ -1,0 +1,33 @@
+recipe_uuid: 92203ba6-7f1c-4295-b711-3d4b086f2811
+recipe_name: Fantasy
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - milk:
+      amounts:
+        - amount: 4
+          unit: oz
+  - creme de menthe:
+      amounts:
+        - amount: 1
+          unit: oz
+  - irish cream:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - chocolate sprinkles:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step: 
+      Pour the milk into a mug and stir in the creme de menthe and irish cream.
+  - step:
+      Serve with chocolate sprinkles.
+notes:

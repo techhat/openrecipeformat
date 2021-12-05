@@ -1,0 +1,35 @@
+recipe_uuid: 49be387f-3e7a-47e2-86f9-4db22d113f23
+recipe_name: Sloe Comfortable Screw
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 1
+          unit: oz
+  - southern comfort:
+      amounts:
+        - amount: 0.67
+          unit: oz
+  - sloe gin:
+      amounts:
+        - amount: 0.67
+          unit: oz
+  - orange juice:
+      amounts:
+        - amount: 1
+          unit: dash
+  - grenadine:
+      amounts:
+        - amount: 1
+          unit: dash
+steps:
+  - step: 
+      Pour the alcohol over ice inter a highball glass, fill with orange juice and add a dash of grenadine.
+notes:

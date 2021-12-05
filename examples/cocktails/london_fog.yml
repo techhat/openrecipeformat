@@ -1,0 +1,32 @@
+recipe_uuid: 7dd48ff2-1e5e-45d3-a415-75b443488204
+recipe_name: London Fog
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - white creme de menthe:
+      amounts:
+        - amount: 1
+          unit: oz
+  - anisette:
+      amounts:
+        - amount: 1
+          unit: oz
+  - angostura bitters:
+      amounts:
+        - amount: 1
+          unit: dash
+  - vanilla ice cream:
+      amounts:
+        - amount: 1
+          unit: scoop
+steps:
+  - step: 
+      Blend until smooth and serve in a chilled cocktail glass.
+notes:
+  - For the original version of this classic, leave out the ice cream and simply shake the liquors with ice.

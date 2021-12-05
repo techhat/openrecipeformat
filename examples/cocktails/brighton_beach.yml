@@ -1,0 +1,43 @@
+recipe_uuid: 615cdc7b-41b6-49f0-9ee7-6ac434483ab0
+recipe_name: Brighton Beach
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - brandy:
+      amounts:
+        - amount: 0.67
+          unit: oz
+  - benedictine:
+      amounts:
+        - amount: 0.67
+          unit: oz
+  - bourbon:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - sour mix:
+      amounts:
+        - amount: 1
+          unit: oz
+  - orange juice:
+      amounts:
+        - amount: 2
+          unit: oz
+  - soda water:
+      amounts:
+        - amount: 1
+          unit: oz
+steps:
+  - step: 
+      Mix the brandy, benedictine and bourbon with ice.
+  - step:
+      Add the sour mix, orange juice and soda water, then shake.
+  - step:
+      Pour into a highball glass and top with a cocktail umbrella.
+notes:

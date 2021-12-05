@@ -1,0 +1,45 @@
+recipe_uuid: a9a86a45-aaa3-4b1d-aae2-a2debc757100
+recipe_name: Blueberry Mojito
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - bacardi rum:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - blueberries:
+      amounts:
+        - amount: 10
+          unit: berry
+  - simple syrup:
+      amounts:
+        - amount: 1
+          unit: oz
+  - lime:
+      amounts:
+        - amount: 6
+          unit: pieces
+  - mint leaves:
+      amounts:
+        - amount: 5
+          unit: leaf
+  - lemon lime soda:
+      amounts:
+        - amount: 1
+          unit: dash
+steps:
+  - step: 
+      Pour the rum over ice in a cocktail shaker with the blueberries and simple syrup, and shake vigorously.
+  - step:
+      Crush most of the lime and mint leaves in a highball glass.
+  - step:
+      Pour in the rum mixture and ice and top with soda.
+  - step:
+      Garnish with mint leaves and lime sections
+notes:

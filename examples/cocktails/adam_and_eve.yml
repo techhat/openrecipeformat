@@ -1,0 +1,41 @@
+recipe_uuid: 755e5be5-7ce3-4fe2-864c-e06103a6e5bd
+recipe_name: Adam and Eve
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - orange juice:
+      amounts:
+        - amount: 1
+          unit: oz
+  - gin:
+      amounts:
+        - amount: 1
+          unit: oz
+  - apricot brandy:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - orange liqueur:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: dash
+  - apple:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      Shake with ice and strain into a cocktail glass.
+  - step:
+      Garnish with a slice of apple.
+notes:

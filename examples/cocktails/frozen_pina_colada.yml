@@ -1,0 +1,39 @@
+recipe_uuid: 178c7fe8-bc07-42ec-af75-6c173ec40ec4
+recipe_name: Frozen Pina Colada
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - light rum:
+      amounts:
+        - amount: 1.75
+          unit: oz
+  - coconut cream:
+      amounts:
+        - amount: 1.75
+          unit: oz
+  - pineapple juice:
+      amounts:
+        - amount: 3
+          unit: oz
+  - cherry:
+      amounts:
+        - amount: 1
+          unit: berry
+  - shredded coconut:
+      amounts:
+        - amount: 1
+          unit: garnish
+  - pineapple:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      Blend with crushed ice until smooth, then pour into a colada glass and garnish with pineapple, a cherry and shredded coconut.
+notes:

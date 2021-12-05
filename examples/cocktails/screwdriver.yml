@@ -1,0 +1,29 @@
+recipe_uuid: 5b07072d-a2ae-4ab5-b115-2aceaeefbc73
+recipe_name: Screwdriver
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - orange juice:
+      amounts:
+        - amount: 5
+          unit: oz
+  - vodka:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - orange:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      Pour the juice and vodka over ice into a highball glass.
+  - step:
+      Garnish with a slice of orange.
+notes:

@@ -1,0 +1,33 @@
+recipe_uuid: dec34561-fa91-4fe9-a77c-51cf333e9d60
+recipe_name: Apple Martini
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - sour apple liqueur:
+      amounts:
+        - amount: 1
+          unit: oz
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: dash
+  - green apple:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      Shake with ice and strain into a chilled martini glass.
+  - step:
+      Garnish with a slice of green apple.
+notes:

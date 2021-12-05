@@ -1,0 +1,35 @@
+recipe_uuid: 0d260d70-2588-4b74-8838-0e82d8da5e29
+recipe_name: Raspberry Lime Rickey
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - raspberry vodka:
+      amounts:
+        - amount: 1
+          unit: oz
+  - lemon lime soda:
+      amounts:
+        - amount: 1
+          unit: oz
+  - lime juice:
+      amounts:
+        - amount: 1
+          unit: oz
+  - lime:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      Mix the vodka and soda in a highball glass.
+  - step:
+      Add lime juice.
+  - step:
+      Garnish with a slice of lime.
+notes:

@@ -1,0 +1,31 @@
+recipe_uuid: 2b7a40dd-120d-4611-a1a3-3a3732100d93
+recipe_name: Between the Sheets in Rome
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - brandy:
+      amounts:
+        - amount: 1
+          unit: oz
+  - black raspberry liqueur:
+      amounts:
+        - amount: 1
+          unit: oz
+  - light rum:
+      amounts:
+        - amount: 1
+          unit: oz
+  - bed:
+      amounts:
+        - amount: 1
+          unit: bed
+steps:
+  - step: 
+      Mix together, pour over ice into a martini glass and drink in bed.
+notes:

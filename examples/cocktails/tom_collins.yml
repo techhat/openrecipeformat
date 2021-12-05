@@ -1,0 +1,39 @@
+recipe_uuid: 24ac9fb9-6313-4963-bb56-b42b62ab9219
+recipe_name: Tom Collins
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - gin:
+      amounts:
+        - amount: 2
+          unit: oz
+  - sour mix:
+      amounts:
+        - amount: 2
+          unit: oz
+  - soda water:
+      amounts:
+        - amount: 1
+          unit: dash
+  - cherry:
+      amounts:
+        - amount: 1
+          unit: berry
+  - orange:
+      amounts:
+        - amount: 1
+          unit: slice
+steps:
+  - step: 
+      Pour the gin over ice into a collins glass.
+  - step:
+      Add the sour mix and a dash of sods.
+  - step:
+      Garnish with a slice of orane and a cherry.
+notes:

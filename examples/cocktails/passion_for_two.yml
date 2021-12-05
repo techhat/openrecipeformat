@@ -1,0 +1,44 @@
+recipe_uuid: ece47ae6-b264-4caf-9da1-6fc56a7408a8
+recipe_name: Passion for Two
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - passion fruit juice:
+      amounts:
+        - amount: 6
+          unit: oz
+  - dark rum:
+      amounts:
+        - amount: 4
+          unit: oz
+  - cranberry juice:
+      amounts:
+        - amount: 1
+          unit: dash
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: dash
+  - club soda:
+      amounts:
+        - amount: 1
+          unit: dash
+  - cherry:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step: 
+      Pour the passion fruit juice and rum over ice in a small bowl.
+  - step:
+      Add the cranberry and lemon juice and top up with club soda.
+  - step:
+      Serve garnished with a cherry and two long straws.
+notes:
+  - Drinking out of the same glass is cute, right?

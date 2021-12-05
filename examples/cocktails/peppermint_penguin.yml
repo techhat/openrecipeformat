@@ -1,0 +1,31 @@
+recipe_uuid: 8b124f8a-33b1-456b-bdd9-5057507b2617
+recipe_name: Peppermint Penguin
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - green creme de menthe:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - chocolate mint liqueur:
+      amounts:
+        - amount: 1
+          unit: oz
+  - oreo:
+      amounts:
+        - amount: 3
+          unit: cookie
+  - cream:
+      amounts:
+        - amount: 2
+          unit: oz
+steps:
+  - step: 
+      Blend with ice, then serve in an old-fashioned ice cream-parlor glass with a long spoon.
+notes:

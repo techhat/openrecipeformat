@@ -1,0 +1,49 @@
+recipe_uuid: e09daaa9-1373-4170-bc3f-f2d411f77a6c
+recipe_name: Sexual Trance
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 1
+          unit: oz
+  - melon liqueur:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - raspberry liqueur:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - orange juice:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - pineapple juice:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - lemon juice:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - orange:
+      amounts:
+        - amount: 1
+          unit: slice
+  - maraschino cherry:
+      amounts:
+        - amount: 1
+          unit: berry
+steps:
+  - step: 
+      Shake with ice.
+  - step:
+      Strain into an old-fashioned glass with ice and garnish with a cherry and/or orange slice.
+notes:

@@ -1,0 +1,53 @@
+recipe_uuid: 3eb8f2ea-c779-43a2-a716-6b56dd42b0d1
+recipe_name: Jade Bliss
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 6
+    unit: drink
+ingredients: 
+  - kaffir lime leaves:
+      amounts:
+        - amount: 1
+          unit: handful
+  - lime juice:
+      amounts:
+        - amount: 8
+          unit: oz
+  - simple syrup:
+      amounts:
+        - amount: 8
+          unit: oz
+  - lime concentrate:
+      amounts:
+        - amount: 4
+          unit: oz
+  - citron vodka:
+      amounts:
+        - amount: 2
+          unit: oz
+  - kaffir-lime mix:
+      amounts:
+        - amount: 1
+          unit: oz
+  - green tea:
+      amounts:
+        - amount: 1
+          unit: oz
+  - kaffir lime leaf:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step: 
+      Make kaffir/lime mix.
+  - step:
+      Using a blender or food processor, blend the leaves, lime juice and syrup, then strain and add the concentrate.
+  - step:
+      Shake the ingredients vigorously with ice, then strain into a chilled cocktail glass and garnish with ribbons of kaffir leaf.
+notes:
+  - Invented by Jerro Banks at Cinnabar.
+  - Meant for a large group, share it!

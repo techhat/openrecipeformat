@@ -1,0 +1,27 @@
+recipe_uuid: fc0041a4-a207-4154-8251-1274de09f8de
+recipe_name: Caramel Martini
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vanilla vodka:
+      amounts:
+        - amount: 2
+          unit: oz
+  - caramel syrup:
+      amounts:
+        - amount: 1
+          unit: oz
+  - spun sugar:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step: 
+      Shake and strain into a chilled martini glass and garnish with spun sugar.
+notes:

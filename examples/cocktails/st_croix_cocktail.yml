@@ -1,0 +1,30 @@
+recipe_uuid: 635bf3ed-d143-47ad-86d7-d303ff40ae6b
+recipe_name: St. Croix Cocktail
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - banana rum:
+      amounts:
+        - amount: 2
+          unit: oz
+  - strawberry puree:
+      amounts:
+        - amount: 2
+          unit: oz
+  - pineaple juice:
+      amounts:
+        - amount: 0.5
+          unit: oz
+steps:
+  - step: 
+      Shake the ingredients in a cocktail shaker.
+  - step:
+      Strain over ice into a martini glass.
+notes:
+  - Invented by Michael Waterhouse at Dylan Prime.

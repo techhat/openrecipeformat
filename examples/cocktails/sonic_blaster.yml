@@ -1,0 +1,49 @@
+recipe_uuid: 43e3a6c1-7a25-4f8a-9f58-df04c0c37f85
+recipe_name: Sonic Blaster
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodks:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - light rum:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - pineapple juice:
+      amounts:
+        - amount: 1
+          unit: dash
+  - banana liqueur:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - orange juice:
+      amounts:
+        - amount: 1
+          unit: oz
+  - cranberry juice:
+      amounts:
+        - amount: 1
+          unit: slice
+  - orange:
+      amounts:
+        - amount: 2
+          unit: slice
+  - lime:
+      amounts:
+        - amount: 2
+          unit: slice
+steps:
+  - step: 
+      Shake with ice and strain into a highball glass filled with ice.
+  - step:
+      Top with ornage and lime slices.
+notes:

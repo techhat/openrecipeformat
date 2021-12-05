@@ -1,0 +1,41 @@
+recipe_uuid: 8df7f3c4-f3dd-4487-a2b2-2a1e587a782e
+recipe_name: Kiss in the Dark
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - gin:
+      amounts:
+        - amount: 1
+          unit: oz
+  - cherry brandy:
+      amounts:
+        - amount: 1
+          unit: oz
+  - dry vermouth:
+      amounts:
+        - amount: 1
+          unit: oz
+  - maraschino cherry:
+      amounts:
+        - amount: 2
+          unit: berry
+  - candle:
+      amounts:
+        - amount: 2
+          unit: candle
+steps:
+  - step: 
+      Shake with ice.
+  - step:
+      Strain into a cocktail glass.
+  - step:
+      Garnish with two maraschino cherries.
+  - step:
+      Serve by candlelight.
+notes:

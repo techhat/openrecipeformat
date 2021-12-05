@@ -1,0 +1,29 @@
+recipe_uuid: 69776685-137f-4b7b-b759-0ee16fa6d914
+recipe_name: Lemon Drop
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - citron vodka:
+      amounts:
+        - amount: 3
+          unit: oz
+  - galliano:
+      amounts:
+        - amount: 1
+          unit: oz
+  - lemon juice:
+      amounts:
+        - amount: 1
+          unit: teaspoon
+steps:
+  - step: 
+      Prepare a cocktail glass by rubbing the rim with a wedge of lemon and dipping it into a bowl of fine sugar.
+  - step:
+      Shake the ingredients with ice and strain into the glass.
+notes:

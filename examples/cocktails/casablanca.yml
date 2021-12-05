@@ -1,0 +1,35 @@
+recipe_uuid: 1e0c4838-6725-46da-980a-68a2988caf13
+recipe_name: Casablanca
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - rum:
+      amounts:
+        - amount: 2
+          unit: oz
+  - grenadine:
+      amounts:
+        - amount: 1.5
+          unit: teaspoon
+  - cherry liqueur:
+      amounts:
+        - amount: 1.5
+          unit: teaspoon
+  - lime juice:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - cherry:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step: 
+      Shake with ice, garnish with a cherry and serve while listening to "As Time Goes By".
+notes:

@@ -1,0 +1,35 @@
+recipe_uuid: 79cc8a25-8569-42c1-8f38-1ccbb33adfe3
+recipe_name: Cake
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - malibu rum:
+      amounts:
+        - amount: 1
+          unit: oz
+  - vanilla vodka:
+      amounts:
+        - amount: 1
+          unit: oz
+  - triple sec:
+      amounts:
+        - amount: 1
+          unit: oz
+  - orange juice:
+      amounts:
+        - amount: 1
+          unit: dash
+  - cherry:
+      amounts:
+        - amount: 1
+          unit: berry
+steps:
+  - step: 
+      Shake the liqor and pour into a chilled martini glass, fill with orange juice and garnish with a cherry.
+notes:

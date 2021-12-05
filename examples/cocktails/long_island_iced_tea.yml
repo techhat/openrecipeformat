@@ -1,0 +1,48 @@
+recipe_uuid: 62debf54-067f-4f30-94e4-deebd37fc353
+recipe_name: Long Island Iced Tea
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - gin:
+      amounts:
+        - amount: 1
+          unit: oz
+  - light rum:
+      amounts:
+        - amount: 1
+          unit: dash
+  - tequila:
+      amounts:
+        - amount: 1
+          unit: slice
+  - lemon juice:
+      amounts:
+        - amount: 0.75
+          unit: oz
+  - cola:
+      amounts:
+        - amount: 1
+          unit: dash
+  - lemon:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step: 
+      Pour all ingredients into a highball glashh filled with ice.
+  - step:
+      Stir.
+  - step:
+      Add a dash of cola and a slice of lemon.
+notes:
+  - Optionally, include 0.5 oz of triple sec.

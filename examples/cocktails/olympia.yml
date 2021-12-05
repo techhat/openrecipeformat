@@ -1,0 +1,27 @@
+recipe_uuid: e05cfa9f-d3e6-4538-9219-c9f0718d671f
+recipe_name: Olympia
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - midori:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - malibu rum:
+      amounts:
+        - amount: 1
+          unit: oz
+  - light cream:
+      amounts:
+        - amount: 0.5
+          unit: dash
+steps:
+  - step: 
+      Blend with crushed ice, pour into a highball glass and serve with a green swizzle stick.
+notes:

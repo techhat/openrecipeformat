@@ -1,0 +1,29 @@
+recipe_uuid: a7e2e35f-7660-49ed-86d7-c80747bd25c5
+recipe_name: Midori Sour
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - midori sour mix:
+      amounts:
+        - amount: 2
+          unit: oz
+  - lemon lime soda:
+      amounts:
+        - amount: 4
+          unit: oz
+  - cherry:
+      amounts:
+        - amount: 1
+          unit: garnish
+steps:
+  - step: 
+      Pour the midori sour mix into a highball glass with ice and fill with soda.
+  - step:
+      Garnish with a cherry.
+notes:

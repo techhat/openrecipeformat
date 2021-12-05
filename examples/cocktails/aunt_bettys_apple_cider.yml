@@ -1,0 +1,33 @@
+recipe_uuid: 8ced0f68-fa83-4e58-b8ac-a10e9b87b064
+recipe_name: Aunt Betty's Apple Cider
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - apple cider:
+      amounts:
+        - amount: 4
+          unit: oz
+  - cinnamon schnapps:
+      amounts:
+        - amount: 1.5
+          unit: oz
+  - whipped cream:
+      amounts:
+        - amount: 1
+          unit: dash
+  - cinnamon stick:
+      amounts:
+        - amount: 1
+          unit: stick
+steps:
+  - step: 
+      Heat the cider gently in a saucepan, without letting it boil, and pout it into a mug.
+  - step:
+      Add the schnapps, top with whipped cream and stir with a cinnamon stick.
+notes:

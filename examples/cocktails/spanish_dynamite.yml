@@ -1,0 +1,35 @@
+recipe_uuid: fcc5f728-c1b2-4292-8276-4e80bcc71e5a
+recipe_name: Spanish Dynamite
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - tequila:
+      amounts:
+        - amount: 1
+          unit: oz
+  - licor 43:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - orange liqueur:
+      amounts:
+        - amount: 0.5
+          unit: oz
+  - orange sorbet:
+      amounts:
+        - amount: 1
+          unit: scoop
+  - cinnamon stick:
+      amounts:
+        - amount: 1
+          unit: stick
+steps:
+  - step: 
+      Shake with ice, strain into a cocktail glass and stir with a cinnamon stick.
+notes:

@@ -1,0 +1,34 @@
+recipe_uuid: 4625179d-4b64-4425-9de1-7e62f5b90e66
+recipe_name: Mother's Day Martini
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - vodka:
+      amounts:
+        - amount: 3
+          unit: oz
+  - dry vermouth:
+      amounts:
+        - amount: 1
+          unit: dash
+  - rose water:
+      amounts:
+        - amount: 1
+          unit: dash
+  - rose petals:
+      amounts:
+        - amount: 3
+          unit: garnish
+steps:
+  - step: 
+      Combine the ingredients in a mixing glass and gently stir.
+  - step:
+      Strain into a chilled glass and garnish with rose petals.
+notes:
+  - Invented by Albert Trummer at Town.

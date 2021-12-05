@@ -1,0 +1,40 @@
+recipe_uuid: 8982cc9c-3d9e-456f-aa0c-63ee7689d099
+recipe_name: Lick
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 4
+    unit: shots
+ingredients: 
+  - midori:
+      amounts:
+        - amount: 1
+          unit: oz
+  - blue curacao:
+      amounts:
+        - amount: 1
+          unit: oz
+  - malibu rum:
+      amounts:
+        - amount: 1
+          unit: oz
+  - sloe gin:
+      amounts:
+        - amount: 1
+          unit: oz
+  - cranberry juice:
+      amounts:
+        - amount: 2.5
+          unit: oz
+  - sour mix:
+      amounts:
+        - amount: 0.5
+          unit: slice
+steps:
+  - step: 
+      Shake the ingredients vigorously with ice in a cocktail shaker and serve as shots.
+notes:
+  - Invented by Darren Subarton.

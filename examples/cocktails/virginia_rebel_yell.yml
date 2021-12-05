@@ -1,0 +1,34 @@
+recipe_uuid: 976f06e4-3405-471c-8b1e-9bacb7c66c0f
+recipe_name: Virginia Rebel Yell
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - whiskey:
+      amounts:
+        - amount: 1
+          unit: oz
+  - irish cream:
+      amounts:
+        - amount: 1
+          unit: oz
+  - hazelnut liqueur:
+      amounts:
+        - amount: 1
+          unit: dash
+  - milk:
+      amounts:
+        - amount: 1
+          unit: dash
+steps:
+  - step: 
+      Mix the ingredients with ice.
+  - step:
+      Strain into a cocktail glass and add milk to taste.
+notes:
+  - It was about state's rights! A state's right to do, what... exactly?

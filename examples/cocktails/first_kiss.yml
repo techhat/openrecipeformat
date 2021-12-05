@@ -1,0 +1,24 @@
+recipe_uuid: 12eeb8d9-4a1a-4d1e-bbdb-36273660180e
+recipe_name: First Kiss
+source_url: https://rachelfederman.com/books
+source_book:
+  authors: Rachel Federman
+  title: 101 Girly Drinks
+  isbn: 9781780973838
+yields:
+  - amount: 1
+    unit: drink
+ingredients: 
+  - white wine:
+      amounts:
+        - amount: 3
+          unit: oz
+  - rose syrup:
+      amounts:
+        - amount: 1
+          unit: drop
+steps:
+  - step: 
+      Serve in a wine glass with a cocktail stirrer.
+notes:
+  - Invented at Madame X.
