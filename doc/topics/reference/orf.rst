@@ -177,7 +177,7 @@ yields
 ------
 Refers to how much food the recipe makes. This is a list, which will normally
 contain one dict. In cases where multiple yields need to be stored (i.e. 50
-cookies vs 100 cookes vs 250 cookies), each yield will have its own dict in this
+cookies vs 100 cookies vs 250 cookies), each yield will have its own dict in this
 list.
 
 amount
